@@ -1,0 +1,521 @@
+# Kamus terjemahan RestoBake — format: Bahasa Indonesia || English || 中文
+# {} = bagian dinamis (angka, nama, kode). Baris diawali # diabaikan.
+** BELUM DIBAYAR ** || ** UNPAID ** || ** 未付款 **
++ Tambah catatan || + Add note || + 添加备注
++ catatan || + note || + 备注
++{} poin didapat || +{} points earned || 获得 +{} 积分
+1 poin = {} || 1 point = {} || 1 积分 = {}
+Absen Masuk || Clock In || 上班打卡
+Absen Pulang || Clock Out || 下班打卡
+Absen masuk / pulang || Clock in / out || 上下班打卡
+Absensi || Attendance || 考勤
+Admin || Admin || 管理员
+Agu || Aug || 8月
+Aktif ({}) || Active ({}) || 进行中 ({})
+Akun || Account || 账户
+Alamat || Address || 地址
+Alamat Pengantaran || Delivery Address || 配送地址
+Alamat Server || Server Address || 服务器地址
+Alamat pengantaran || Delivery address || 配送地址
+Alasan || Reason || 原因
+Alasan koreksi * || Correction reason * || 更正原因 *
+Alasan koreksi wajib diisi || Correction reason is required || 必须填写更正原因
+Alasan pembatalan || Cancellation reason || 取消原因
+Alasan pembatalan (dilaporkan ke Admin) || Cancellation reason (reported to Admin) || 取消原因（将上报管理员）
+Ambil || Pick up || 自取
+Ambil pesanan dari meja, kirim ke dapur, dan proses pembayaran tunai, kartu, atau QRIS. || Take orders at the table, send them to the kitchen, and accept cash, card, or QRIS payments. || 在桌边点单、发送到厨房，并处理现金、刷卡或 QRIS 付款。
+Anda akan keluar dari aplikasi Resto. || You will be signed out of the Resto app. || 您将退出餐厅应用。
+Anda perlu login lagi untuk memesan. || You will need to sign in again to order. || 您需要重新登录才能下单。
+Antar || Delivery || 外送
+Antri || Queued || 排队中
+Apr || Apr || 4月
+Bagikan || Share || 分享
+Bahasa || Language || 语言
+Bakery || Bakery || 烘焙
+Bar || Bar || 吧台
+Baru || New || 新订单
+Baru ({}) || New ({}) || 新订单 ({})
+Batal || Cancel || 取消
+Batalkan || Cancel || 取消
+Batalkan Pesanan || Cancel Order || 取消订单
+Batalkan pesanan || Cancel order || 取消订单
+Batalkan pesanan? || Cancel this order? || 取消此订单？
+Batalkan reservasi || Cancel reservation || 取消预订
+Batalkan {} || Cancel {} || 取消 {}
+Bayar || Pay || 付款
+Bayar QRIS || QRIS payment || QRIS 付款
+Bayar Sekarang (QRIS) || Pay Now (QRIS) || 立即付款 (QRIS)
+Bayar dengan Kartu || Pay by Card || 刷卡付款
+Bayar dengan QRIS || Pay with QRIS || 使用 QRIS 付款
+Bayar di Kasir || Pay at Cashier || 到收银台付款
+Bayar lewat halaman web || Pay via web page || 通过网页付款
+Bayar nanti || Pay later || 稍后付款
+Bayar {} || Pay {} || 付款 {}
+Belum Bayar || Unpaid || 未付款
+Belum ada koreksi || No corrections yet || 暂无更正
+Belum ada pesanan aktif || No active orders yet || 暂无进行中的订单
+Belum ada pesanan yang siap diantar || No orders ready to serve || 暂无待上菜订单
+Belum ada promo saat ini || No promos right now || 当前暂无优惠
+Belum ada riwayat pesanan || No order history yet || 暂无历史订单
+Belum ada transaksi hari ini || No transactions today || 今日暂无交易
+Belum ada transaksi poin || No point transactions yet || 暂无积分记录
+Belum ada voucher tukar poin || No point vouchers yet || 暂无积分兑换券
+Belum ada voucher yang tersedia || No vouchers available || 暂无可用优惠券
+Belum bayar || Unpaid || 未付款
+Belum dibayar || Unpaid || 未付款
+Belum punya akun? || Don't have an account? || 还没有账户？
+Berakhir {} || Expired {} || 已过期 {}
+Berhasil ditukar! || Redeemed successfully! || 兑换成功！
+Berlaku s/d {} || Valid until {} || 有效期至 {}
+Berlaku sampai {} || Valid until {} || 有效期至 {}
+Bronze || Bronze || 铜卡
+Buka Halaman Pembayaran Kartu || Open Card Payment Page || 打开刷卡付款页面
+Cari || Search || 搜索
+Cari kode / meja / nama || Search code / table / name || 搜索单号 / 桌号 / 姓名
+Cari menu || Search menu || 搜索菜品
+Cari roti, kue, kopi... || Search bread, cakes, coffee... || 搜索面包、蛋糕、咖啡…
+Catatan || Notes || 备注
+Catatan (opsional) || Notes (optional) || 备注（可选）
+Catatan pesanan || Order notes || 订单备注
+Catatan pesanan (opsional) || Order notes (optional) || 订单备注（可选）
+Catatan untuk dapur || Notes for the kitchen || 给厨房的备注
+Catatan {} || Notes: {} || 备注：{}
+Cek & Kirim ke Dapur || Review & Send to Kitchen || 核对并发送到厨房
+Cek & Kirim · {} item · {} || Review & Send · {} items · {} || 核对并发送 · {} 项 · {}
+Cek Ulang Pesanan || Review Order || 核对订单
+Cetak Bill || Print Bill || 打印账单
+Cetak Struk || Print Receipt || 打印收据
+Cetak bill || Print bill || 打印账单
+Cetak struk || Print receipt || 打印收据
+Cetak struk otomatis setelah bayar || Auto-print receipt after payment || 付款后自动打印收据
+Coba lagi || Try again || 重试
+Contoh: tidak pedas, dipanaskan || e.g. not spicy, warmed up || 例如：不辣、加热
+Daftar Member || Member Sign Up || 会员注册
+Daftar Sekarang || Sign Up Now || 立即注册
+Daftar gratis & langsung kumpulkan poin dari setiap pesanan. || Sign up free & earn points on every order. || 免费注册，每笔订单都能积分。
+Dapat 1 poin setiap belanja {} · 1 poin = {} || Earn 1 point per {} spent · 1 point = {} || 每消费 {} 得 1 积分 · 1 积分 = {}
+Dapur || Kitchen || 厨房
+Dapur sedang menyiapkan pesanan Anda || The kitchen is preparing your order || 厨房正在准备您的订单
+Delivery || Delivery || 外送
+Denah Meja || Table Map || 餐桌布局
+Des || Dec || 12月
+Detail || Details || 详情
+Di dapur || In kitchen || 厨房中
+Diantar || Served || 已上菜
+Dibatalkan || Cancelled || 已取消
+Dibatalkan customer || Cancelled by customer || 顾客已取消
+Dikonfirmasi || Confirmed || 已确认
+Dimasak || Cooking || 制作中
+Dimasak ({}) || Cooking ({}) || 制作中 ({})
+Dine In || Dine In || 堂食
+Dipakai {} || Used {} || 已使用 {}
+Dipilih || Selected || 已选择
+Diskon & Poin || Discount & Points || 折扣与积分
+Diskon / Poin || Discount / Points || 折扣 / 积分
+Diskon / poin || Discount / points || 折扣 / 积分
+Diskon manual (Rp) || Manual discount (Rp) || 手动折扣 (Rp)
+Diskon/Poin || Discount/Points || 折扣/积分
+Diskon{} || Discount{} || 折扣{}
+Ditandai sudah diantar || Marked as served || 已标记为上菜
+Diterima || Received || 已接单
+Dompet voucher masih kosong.\nTukar poin Anda dengan voucher di menu Poin. || Your voucher wallet is empty.\nRedeem your points for vouchers in the Points menu. || 优惠券钱包为空。\n可在“积分”菜单用积分兑换优惠券。
+Email || Email || 邮箱
+Email (opsional) || Email (optional) || 邮箱（可选）
+FOOD & BAKERY || FOOD & BAKERY || 美食与烘焙
+Feb || Feb || 2月
+GRATIS (voucher) || FREE (voucher) || 免费（优惠券）
+Gagal || Failed || 失败
+Gagal cetak: {} || Print failed: {} || 打印失败：{}
+Gagal membagikan: {} || Share failed: {} || 分享失败：{}
+Ganti Password || Change Password || 修改密码
+Ganti metode || Change method || 更换方式
+GoPay, OVO, DANA, ShopeePay, m-banking || GoPay, OVO, DANA, ShopeePay, mobile banking || GoPay、OVO、DANA、ShopeePay、手机银行
+Gold || Gold || 金卡
+Gratis || Free || 免费
+Gratis ongkir {} || Free delivery {} || 免运费 {}
+Gunakan IP LAN PC server (bukan localhost). Contoh: http://192.168.1.10:8000 || Use the server PC's LAN IP (not localhost). Example: http://192.168.1.10:8000 || 请使用服务器电脑的局域网 IP（不是 localhost）。例如：http://192.168.1.10:8000
+Hadiah || Gift || 礼品
+Hapus || Delete || 删除
+Hapus item || Remove item || 删除菜品
+Hapus item? || Remove this item? || 删除此菜品？
+Hapus voucher || Remove voucher || 移除优惠券
+Hemat {} || Save {} || 节省 {}
+Hubungkan Member || Link Member || 关联会员
+Isi || Enter || 请输入
+Isi alamat pengantaran || Enter delivery address || 请填写配送地址
+Isi kode approval / 4 digit kartu dari EDC || Enter approval code / last 4 card digits from EDC || 请输入 EDC 授权码 / 卡号后 4 位
+Isi nomor meja || Enter table number || 请输入桌号
+Item || Item || 菜品
+Jan || Jan || 1月
+Jul || Jul || 7月
+Jum || Fri || 周五
+Jun || Jun || 6月
+Kam || Thu || 周四
+Kartu || Card || 刷卡
+Kartu Kredit / Debit || Credit / Debit Card || 信用卡 / 借记卡
+Kasir || Cashier || 收银
+Kasir & struk || Cashier & receipts || 收银与收据
+Kedaluwarsa || Expired || 已过期
+Keluar || Sign out || 退出
+Keluar? || Sign out? || 确定退出？
+Kembali || Back || 返回
+Kembalian || Change || 找零
+Kembalikan || Send back || 退回
+Keranjang || Cart || 购物车
+Keranjang & Checkout || Cart & Checkout || 购物车与结账
+Keranjang masih kosong || Your cart is empty || 购物车是空的
+Ketuk menu untuk menambahkan || Tap a menu item to add it || 点击菜品即可添加
+Khusus aplikasi || App only || 仅限 App
+Khusus di kasir || Cashier only || 仅限收银台
+Kitchen || Kitchen || 厨房
+Kitchen Display || Kitchen Display || 厨房显示屏
+Kode approval / 4 digit terakhir || Approval code / last 4 digits || 授权码 / 卡号后 4 位
+Kode voucher / kode dompet member || Voucher code / member wallet code || 优惠码 / 会员钱包码
+Kode {} disalin || Code {} copied || 已复制代码 {}
+Komplain tamu || Guest complaint || 顾客投诉
+Konfirmasi Pembayaran Masuk || Confirm Payment Received || 确认已收款
+Konfirmasi QRIS || Confirm QRIS || 确认 QRIS
+Konfirmasi password tidak sama || Password confirmation does not match || 两次密码不一致
+Koreksi item || Correct item || 更正菜品
+Koreksi pesanan (Kasir) || Correct order (Cashier) || 更正订单（收银）
+Koreksi pesanan (Pengawas) || Correct order (Supervisor) || 更正订单（主管）
+Koreksi tersimpan & dilaporkan ke Admin || Correction saved & reported to Admin || 更正已保存并上报管理员
+Koreksi {} · {} || Correct {} · {} || 更正 {} · {}
+Kosong || Empty || 空闲
+Kosong {} || Free {} || 空闲 {}
+Kosongkan || Clear || 清空
+Kosongkan keranjang? || Clear the cart? || 清空购物车？
+Kosongkan meja ini? || Set this table as free? || 将此桌设为空闲？
+Kurang || Short || 不足
+Kurang {} poin || {} points short || 还差 {} 积分
+Langsung ke dapur || Straight to the kitchen || 直达厨房
+Layar dapur akan kembali ke halaman login. || The kitchen screen will return to the login page. || 厨房屏幕将返回登录页。
+Lebar kertas || Paper width || 纸张宽度
+Lepas Voucher || Remove Voucher || 移除优惠券
+Lihat / tambah item || View / add items || 查看 / 加菜
+Lihat Keranjang || View Cart || 查看购物车
+Lihat Pesanan || View Order || 查看订单
+Lihat S&K || See T&C || 查看条款
+Lihat Syarat & Ketentuan || See Terms & Conditions || 查看条款与条件
+Lihat Voucher Saya || See My Vouchers || 查看我的优惠券
+Lihat nomor di meja Anda || See the number on your table || 请查看桌上的号码
+Live || Live || 实时
+Lunas || Paid || 已付款
+MEJA || TABLE || 桌
+MEMBER CARD || MEMBER CARD || 会员卡
+Makan di sini || Dine in || 堂食
+Makanan || Food || 食物
+Maks {} || Max {} || 最高 {}
+Manager || Manager || 经理
+Mar || Mar || 3月
+Masuk || Sign in || 登录
+Masuk {}{} || In {}{} || 上班 {}{}
+Masukkan kode voucher || Enter voucher code || 输入优惠码
+May || May || 5月
+Mei || May || 5月
+Meja || Tables || 餐桌
+Meja {} || Table {} || {} 号桌
+Meja {} · {} · {} kursi || Table {} · {} · {} seats || {} 号桌 · {} · {} 座
+Member || Member || 会员
+Member baru || New member || 新会员
+Member terhubung || Member linked || 已关联会员
+Member {} || {} Member || {} 会员
+Member {} terhubung ({} poin) || Member {} linked ({} points) || 已关联会员 {}（{} 积分）
+Memproses... || Processing... || 处理中…
+Mendaftar... || Signing up... || 注册中…
+Mengecek syarat voucher... || Checking voucher terms... || 正在检查优惠券条件…
+Menguji... || Testing... || 测试中…
+Menu || Menu || 菜单
+Menu habis || Sold out || 已售罄
+Menu tidak ditemukan || Menu not found || 未找到菜品
+Menunggu || Waiting || 等待中
+Menunggu Bayar || Awaiting Payment || 待付款
+Menunggu diantar waiter || Waiting for the waiter to serve || 等待服务员上菜
+Menunggu pembayaran... || Waiting for payment... || 等待付款…
+Min || Sun || 周日
+Min. {} || Min. {} || 最低 {}
+Minimal {} poin untuk ditukar || Minimum {} points to redeem || 至少 {} 积分才能兑换
+Minuman || Drinks || 饮品
+Mode Kasir: koreksi item yang sudah dikirim. Wajib isi alasan, dilaporkan ke Admin. || Cashier mode: correct items already sent. A reason is required and reported to Admin. || 收银模式：更正已发送的菜品。必须填写原因，并上报管理员。
+Mode Pengawas: koreksi pesanan yang sudah dibayar. Wajib isi alasan, dilaporkan ke Admin. || Supervisor mode: correct orders that are already paid. A reason is required and reported to Admin. || 主管模式：更正已付款的订单。必须填写原因，并上报管理员。
+Mode simulator aktif (testing). Buka halaman web lalu tekan "Bayar Sekarang". || Simulator mode is on (testing). Open the web page and tap "Pay Now". || 模拟模式已开启（测试）。打开网页后点击“立即付款”。
+Mulai Masak || Start Cooking || 开始制作
+Nama || Name || 姓名
+Nama Lengkap || Full Name || 全名
+Nama dan No. HP wajib diisi || Name and phone number are required || 必须填写姓名和手机号
+Nama pelanggan || Customer name || 顾客姓名
+Nilai tagihan || Bill value || 账单金额
+No || No || 编号
+No. HP || Phone No. || 手机号
+No. HP atau Email || Phone or Email || 手机号或邮箱
+No. HP member || Member phone no. || 会员手机号
+Nomor Meja || Table Number || 桌号
+Notifikasi pesanan || Order notifications || 订单通知
+Nov || Nov || 11月
+Offline || Offline || 离线
+Okt || Oct || 10月
+Ongkir || Delivery fee || 运费
+Online || Online || 线上
+PB1 {}% || Tax {}% || 税 {}%
+Pajak || Tax || 税
+Pajak PB1 || Restaurant Tax || 餐饮税
+Pajak {}% || Tax {}% || 税 {}%
+Pakai || Use || 使用
+Pakai di Keranjang || Use in Cart || 在购物车使用
+Pakai poin ({} tersedia) || Use points ({} available) || 使用积分（可用 {}）
+Pakai voucher atau kode promo || Use a voucher or promo code || 使用优惠券或优惠码
+Pakai {} poin = potongan {} || Use {} points = {} off || 使用 {} 积分 = 减 {}
+Password || Password || 密码
+Password baru || New password || 新密码
+Password diganti || Password changed || 密码已修改
+Password lama || Old password || 旧密码
+Password minimal 6 karakter || Password must be at least 6 characters || 密码至少 6 位
+Pastikan dana {} sudah masuk di aplikasi merchant/bank Anda. || Make sure {} has arrived in your merchant/bank app. || 请确认 {} 已到账（商户/银行 App）。
+Pelanggan || Customer || 顾客
+Pelanggan: {} || Customer: {} || 顾客：{}
+Pelayan || Waiter || 服务员
+Pembayaran || Payment || 付款
+Pembayaran Berhasil || Payment Successful || 付款成功
+Pembayaran {} berhasil. Terima kasih! || Payment for {} succeeded. Thank you! || 订单 {} 付款成功，谢谢！
+Pengaturan || Settings || 设置
+Pengawas || Supervisor || 主管
+Periksa lagi bersama tamu. Setelah dikirim, perubahan hanya bisa dilakukan Kasir. || Double-check with the guest. Once sent, only the Cashier can make changes. || 请与顾客再次核对。发送后只有收银员可以修改。
+Perkiraan; total final dihitung server saat pesanan dibuat. || Estimate; the final total is calculated by the server when the order is placed. || 预估金额；最终金额在下单时由服务器计算。
+Pesan & Kirim ke Dapur || Order & Send to Kitchen || 下单并发送到厨房
+Pesan & Nikmati || Order & Enjoy || 下单享美味
+Pesan Sekarang · {} || Order Now · {} || 立即下单 · {}
+Pesan online || Order online || 线上点餐
+Pesan per meja || Order per table || 按桌点餐
+Pesan roti, kue & makanan favoritmu. Kumpulkan poin di setiap transaksi. || Order your favourite bread, cakes & meals. Earn points on every purchase. || 订购您喜爱的面包、蛋糕和美食，每笔消费都能积分。
+Pesanan || Orders || 订单
+Pesanan Aktif || Active Orders || 进行中的订单
+Pesanan Anda sudah diteruskan ke dapur. || Your order has been sent to the kitchen. || 您的订单已发送到厨房。
+Pesanan SUDAH DIBAYAR. Perubahan nilai akan tercatat sebagai selisih dan dilaporkan ke Admin. || This order is ALREADY PAID. Any value change is recorded as a difference and reported to Admin. || 此订单已付款。金额变动将记为差额并上报管理员。
+Pesanan Saya || My Orders || 我的订单
+Pesanan baru || New order || 新订单
+Pesanan dari waiter dan aplikasi customer langsung muncul di layar dapur secara realtime. || Orders from waiters and the customer app appear on the kitchen screen in real time. || 服务员和顾客 App 的订单实时显示在厨房屏幕上。
+Pesanan dibatalkan || Order cancelled || 订单已取消
+Pesanan diterima, menunggu dapur || Order received, waiting for the kitchen || 已接单，等待厨房
+Pesanan kosong || Order is empty || 订单为空
+Pesanan online baru {} || New online order {} || 新线上订单 {}
+Pesanan segera diantar || Your order will be served shortly || 订单即将送达
+Pesanan sudah dibatalkan || Order already cancelled || 订单已取消
+Pesanan sudah dikirim ke dapur. Dapur akan melihat tanda koreksi. Dilaporkan ke Admin. || This order was already sent to the kitchen. The kitchen will see a correction mark. Reported to Admin. || 此订单已发送到厨房，厨房会看到更正标记，并上报管理员。
+Pesanan {} || Order {} || 订单 {}
+Pesanan {} dibatalkan || Order {} cancelled || 订单 {} 已取消
+Pesanan {} sedang dimasak || Order {} is being cooked || 订单 {} 正在制作
+Pesanan {} sudah siap! || Order {} is ready! || 订单 {} 已备好！
+Pilih Voucher || Choose Voucher || 选择优惠券
+Pilih menu dulu || Choose a menu item first || 请先选择菜品
+Pilih tanggal || Choose date || 选择日期
+Pindah Meja || Move Table || 换桌
+Pindah ke meja || Move to table || 换到桌号
+Pindah ke meja {} || Moved to table {} || 已换到 {} 号桌
+Poin || Points || 积分
+Poin & Tier || Points & Tier || 积分与等级
+Poin & voucher || Points & vouchers || 积分与优惠券
+Poin (hubungkan member dulu) || Points (link a member first) || 积分（请先关联会员）
+Poin Anda cukup || You have enough points || 积分充足
+Poin didapat: +{} || Points earned: +{} || 获得积分：+{}
+Poin yang dipakai akan dikembalikan. || Points used will be refunded. || 已使用的积分将退还。
+Potongan poin || Points discount || 积分抵扣
+Printer Struk || Receipt Printer || 收据打印机
+Printer thermal Bluetooth/Wi-Fi perlu terpasang di layanan cetak Android (mis. aplikasi "RawBT" / plugin printer pabrikan) atau AirPrint di iOS. || Bluetooth/Wi-Fi thermal printers must be set up in the Android print service (e.g. the "RawBT" app / manufacturer plugin) or AirPrint on iOS. || 蓝牙/Wi-Fi 热敏打印机需在安卓打印服务中设置（如 “RawBT” App / 厂商插件），iOS 使用 AirPrint。
+Profil diperbarui || Profile updated || 资料已更新
+Promo || Promo || 优惠
+Promo Tersedia || Available Promos || 可用优惠
+Proses kartu di mesin EDC sebesar {}, lalu isi kode approval. || Process {} on the EDC machine, then enter the approval code. || 在 EDC 刷卡机上刷 {}，然后输入授权码。
+Punya kode voucher? || Have a voucher code? || 有优惠码吗？
+QRIS / E-Wallet || QRIS / E-Wallet || QRIS / 电子钱包
+QRIS dinamis dengan nominal {} akan dibuat dari QRIS merchant di Pengaturan server. || A dynamic QRIS for {} will be generated from the merchant QRIS in server Settings. || 将根据服务器设置中的商户 QRIS 生成金额为 {} 的动态 QRIS。
+Rab || Wed || 周三
+Ref || Ref || 参考号
+Refund || Refund || 退款
+Rekap || Recap || 汇总
+Rekap Hari Ini || Today's Recap || 今日汇总
+Rekomendasi || Recommended || 推荐
+Reservasi || Reserved || 已预订
+Reservasi {} || Reserved {} || 已预订 {}
+RestoBake || RestoBake || RestoBake
+RestoBake Kitchen || RestoBake Kitchen || RestoBake 厨房
+RestoBake Resto || RestoBake Resto || RestoBake 餐厅
+Ringkasan || Summary || 小结
+Riwayat || History || 历史
+Riwayat Koreksi || Correction History || 更正记录
+Riwayat Poin || Points History || 积分记录
+Sab || Sat || 周六
+Salah input waiter || Waiter input error || 服务员录入错误
+Salin kode || Copy code || 复制代码
+Salin kode {} || Copy code {} || 复制代码 {}
+Saya sudah bayar, cek status || I've paid, check status || 我已付款，查看状态
+Scan QRIS || Scan QRIS || 扫描 QRIS
+Scan dengan aplikasi e-wallet atau m-banking || Scan with an e-wallet or mobile banking app || 使用电子钱包或手机银行扫码
+Sedang Dimasak || Cooking || 制作中
+Sel || Tue || 周二
+Selamat datang || Welcome || 欢迎
+Selamat malam || Good evening || 晚上好
+Selamat menikmati! || Enjoy your meal! || 请慢用！
+Selamat pagi || Good morning || 早上好
+Selamat siang || Good afternoon || 中午好
+Selamat sore || Good afternoon || 下午好
+Selesai || Done || 完成
+Selesaikan pembayaran agar pesanan diproses || Complete payment so the order can be processed || 请完成付款以便处理订单
+Semua || All || 全部
+Semua item akan dihapus. || All items will be removed. || 所有菜品将被清除。
+Semua station || All stations || 全部工位
+Semua tagihan sudah dibayar 🎉 || All bills are paid 🎉 || 所有账单已付清 🎉
+Sen || Mon || 周一
+Sep || Sep || 9月
+Server: {} || Server: {} || 服务器：{}
+Service || Service || 服务费
+Service {}% || Service {}% || 服务费 {}%
+Siap || Ready || 已备好
+Siap ({}) || Ready ({}) || 已备好 ({})
+Siap Antar || Ready to Serve || 待上菜
+Siap Diantar || Ready to Serve || 待上菜
+Silakan ambil di kasir || Please pick it up at the cashier || 请到收银台取餐
+Silakan bayar di kasir || Please pay at the cashier || 请到收银台付款
+Silakan masuk untuk melanjutkan || Please sign in to continue || 请登录以继续
+Silver || Silver || 银卡
+Simpan || Save || 保存
+Simpan koreksi || Save correction || 保存更正
+Sisa {} || {} left || 剩余 {}
+Stok Menu || Menu Stock || 菜品库存
+Stok Menu (tandai habis) || Menu Stock (mark sold out) || 菜品库存（标记售罄）
+Struk || Receipt || 收据
+Struk {} || Receipt {} || 收据 {}
+Suara aktif || Sound on || 声音开
+Suara mati || Sound off || 声音关
+Subtotal || Subtotal || 小计
+Sudah Diambil Pelanggan || Picked Up by Customer || 顾客已取餐
+Sudah Diantar || Served || 已上菜
+Sudah Diantar ke Meja || Served to Table || 已上菜到桌
+Sudah Masuk || Received || 已到账
+Sudah absen hari ini || Already clocked in/out today || 今日已打卡
+Sudah dibayar — hanya Pengawas yang bisa mengubah || Already paid — only a Supervisor can make changes || 已付款——只有主管可以修改
+Sudah dikirim ke dapur — minta Kasir untuk mengubah || Already sent to the kitchen — ask the Cashier to make changes || 已发送到厨房——请让收银员修改
+Syarat & Ketentuan || Terms & Conditions || 条款与条件
+Take Away || Take Away || 外带
+Tambah · {} || Add · {} || 添加 · {}
+Tambahan pesanan || Additional order || 加单
+Tampilkan QRIS || Show QRIS || 显示 QRIS
+Tamu batal || Guest cancelled || 顾客取消
+Tamu datang, buat pesanan || Guests arrived, create an order || 顾客到店，开始点单
+Tamu ganti pesanan || Guest changed the order || 顾客更换菜品
+Tandai meja sebagai reservasi? || Mark this table as reserved? || 将此桌标记为已预订？
+Tandai menu habis || Mark items sold out || 标记菜品售罄
+Tandai sudah diantar || Mark as served || 标记为已上菜
+Tanggal || Date || 日期
+Tanggal Lahir (opsional) || Date of Birth (optional) || 出生日期（可选）
+Tanpa batas waktu || No expiry || 无期限
+Tekan lama meja kosong untuk menandai reservasi. || Long-press a free table to mark it reserved. || 长按空闲桌可标记为预订。
+Telp {} · Buka {} || Tel {} · Open {} || 电话 {} · 营业 {}
+Tema Tampilan || Theme || 显示主题
+Terapkan || Apply || 应用
+Terima kasih sudah berbelanja || Thank you for your purchase || 感谢您的惠顾
+Terisi {} || Occupied {} || 有客 {}
+Terpakai || Used || 已使用
+Tes Koneksi || Test Connection || 测试连接
+Tidak ada meja kosong || No free tables || 没有空闲餐桌
+Tidak ada perubahan || No changes || 没有更改
+Tidak ada pesanan || No orders || 没有订单
+Tidak bisa membuka halaman pembayaran || Cannot open the payment page || 无法打开付款页面
+Tier {}+ || Tier {}+ || {} 及以上等级
+Timer per pesanan || Timer per order || 每单计时
+Tipe || Type || 类型
+Tipe Pesanan || Order Type || 订单类型
+Total || Total || 合计
+Total penerimaan {} || Total received {} || 收款总额 {}
+Total pesanan || Order total || 订单合计
+Transaksi || Transactions || 交易
+Transaksi Baru || New Transaction || 新交易
+Tukar Poin || Redeem Points || 积分兑换
+Tukar Poin dengan Voucher || Redeem Points for Vouchers || 用积分兑换优惠券
+Tukar poin member || Redeem member points || 兑换会员积分
+Tukar {} poin || Redeem {} points || 兑换 {} 积分
+Tukar {}? || Redeem {}? || 兑换 {}？
+Tunai || Cash || 现金
+Tunai, kartu, atau QRIS saat ambil/selesai makan || Cash, card, or QRIS at pickup / after dining || 取餐或用餐后以现金、刷卡或 QRIS 付款
+Tunjukkan ke pelanggan. Setelah dana masuk, tekan konfirmasi. || Show it to the customer. Once the funds arrive, tap confirm. || 请出示给顾客。到账后点击确认。
+URL Server || Server URL || 服务器地址
+Uang diterima || Cash received || 实收金额
+Uang diterima kurang dari total || Cash received is less than the total || 实收金额少于应付金额
+Uang pas || Exact amount || 刚好
+Ubah Lagi || Edit Again || 再改一下
+Ubah Profil || Edit Profile || 编辑资料
+Ulangi Password || Repeat Password || 确认密码
+Username || Username || 用户名
+Visa, Mastercard, JCB || Visa, Mastercard, JCB || Visa、Mastercard、JCB
+Void || Void || 作废
+Voucher || Voucher || 优惠券
+Voucher Saya || My Vouchers || 我的优惠券
+Voucher belum bisa dipakai{}. Ganti atau hapus voucher dulu. || Voucher can't be used yet{}. Change or remove the voucher first. || 优惠券暂不可用{}。请先更换或移除优惠券。
+Voucher dari dompet member otomatis menghubungkan member ke pesanan. Semua syarat (minimal belanja, tanggal, jam, tier, kuota) dicek server. || A voucher from a member's wallet automatically links the member to the order. All terms (minimum spend, date, time, tier, quota) are checked by the server. || 使用会员钱包里的优惠券会自动关联会员。所有条件（最低消费、日期、时间、等级、名额）由服务器检查。
+Voucher dilepas || Voucher removed || 优惠券已移除
+Voucher diterapkan || Voucher applied || 优惠券已使用
+Voucher tidak bisa dipakai || Voucher cannot be used || 优惠券不可用
+Voucher {} || Voucher {} || 优惠券 {}
+Voucher {} dipilih. Tambahkan menu ke keranjang, voucher dipakai otomatis saat checkout. || Voucher {} selected. Add items to your cart; the voucher is applied at checkout. || 已选择优惠券 {}。将菜品加入购物车，结账时自动使用。
+Waiter || Waiter || 服务员
+Waiter & Kasir || Waiter & Cashier || 服务员与收银
+Wajib alasan · dilaporkan ke Admin || Reason required · reported to Admin || 必须填写原因 · 上报管理员
+Waktu || Time || 时间
+Ya || Yes || 是
+baru saja || just now || 刚刚
+dan password || and password || 和密码
+poin aktif || active points || 可用积分
+{} dibayar online {} || {} paid online {} || {} 线上已付 {}
+{} ditambahkan || {} added || 已添加 {}
+{} ditandai HABIS || {} marked SOLD OUT || {} 已标记售罄
+{} ditandai sudah diantar || {} marked as served || {} 已标记上菜
+{} item || {} items || {} 项
+{} jam lalu || {} h ago || {} 小时前
+{} mnt || {} min || {} 分钟
+{} mnt lalu || {} min ago || {} 分钟前
+{} poin || {} points || {} 积分
+{} poin akan dipakai. Voucher masuk ke dompet "Voucher Saya"{}. || {} points will be used. The voucher goes to "My Vouchers"{}. || 将使用 {} 积分。优惠券将放入“我的优惠券”{}。
+ dan berlaku {} hari ||  and is valid for {} days || ，有效期 {} 天
+{} poin lagi menuju {} || {} more points to {} || 再得 {} 积分升级为 {}
+{} siap diantar || {} ready to serve || {} 可以上菜
+{} tagihan || {} bills || {} 张账单
+{} tersedia lagi || {} available again || {} 已恢复供应
+{} transaksi || {} transactions || {} 笔交易
+{} trx || {} trx || {} 笔
+{} · Buka {} || {} · Open {} || {} · 营业 {}
+{} · {} poin || {} · {} points || {} · {} 积分
+✓ Pesanan dikirim ke dapur || ✓ Order sent to the kitchen || ✓ 订单已发送到厨房
+✓ Server terhubung || ✓ Server connected || ✓ 服务器已连接
+✗ Gagal terhubung ke server || ✗ Cannot connect to server || ✗ 无法连接服务器
+🔔 PESANAN BARU! || 🔔 NEW ORDER! || 🔔 新订单！
+🔔 {} siap diantar || 🔔 {} ready to serve || 🔔 {} 可以上菜
+Sedang Dimasak || Cooking || 制作中
+Sudah Diantar || Served || 已上菜
+Menunggu || Pending || 等待中
+Gagal terhubung ke server || Cannot connect to server || 无法连接服务器
+Gagal terhubung ke server (timeout) || Cannot connect to server (timeout) || 无法连接服务器（超时）
+Pesanan sudah dibatalkan || Order already cancelled || 订单已取消
+Pesanan dikirim ke dapur || Order sent to the kitchen || 订单已发送到厨房
+Lepas || Remove || 移除
+Promo || Promo || 优惠
+Hemat || Save || 节省
+DISKON || DISCOUNT || 折扣
+ONGKIR || DELIVERY || 运费
+POTONGAN || OFF || 立减
+GRATIS || FREE || 免费
+Midnight || Midnight || 午夜
+Royal || Royal || 皇家
+Espresso || Espresso || 浓缩
+Emerald || Emerald || 翡翠
+Rosé || Rosé || 玫瑰
+Pakai poin || Use points || 使用积分
+Belum login || Not signed in || 未登录
+Hubungkan || Link || 关联
+Cari || Find || 查找
+Pesanan Baru || New Order || 新订单
+RestoBake Waiter || RestoBake Waiter || RestoBake 服务员
+RestoBake Kasir || RestoBake Cashier || RestoBake 收银
+Ambil pesanan dari meja, cek ulang bersama tamu, lalu kirim langsung ke dapur. || Take orders at the table, double-check with the guest, then send them straight to the kitchen. || 在桌边点单，与顾客核对后直接发送到厨房。
+Terima pembayaran tunai, kartu, atau QRIS, cetak struk, dan koreksi pesanan. || Accept cash, card, or QRIS payments, print receipts, and correct orders. || 收取现金、刷卡或 QRIS 付款，打印收据并更正订单。
+Cek ulang sebelum kirim || Review before sending || 发送前核对
+Notifikasi siap antar || Ready-to-serve alerts || 上菜提醒
+Koreksi pesanan || Order corrections || 订单更正

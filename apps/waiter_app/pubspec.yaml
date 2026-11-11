@@ -1,0 +1,23 @@
+name: restobake_waiter
+description: "RestoBake Waiter — aplikasi Waiter (pelayan): pesan per meja, cek ulang, kirim ke dapur, antar pesanan (Android & iOS)."
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  resto_core:
+    path: ../../packages/resto_core
+  resto_staff:
+    path: ../../packages/resto_staff
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

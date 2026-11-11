@@ -1,0 +1,21 @@
+name: restobake_kitchen
+description: "RestoBake Kitchen — layar dapur (Kitchen Display) untuk Android/iOS tablet."
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  resto_core:
+    path: ../../packages/resto_core
+  provider: ^6.1.2
+  wakelock_plus: ^1.2.8
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

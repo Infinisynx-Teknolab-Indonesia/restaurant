@@ -1,0 +1,22 @@
+name: resto_staff
+description: "Layar bersama untuk aplikasi Waiter & Kasir RestoBake (meja, pesanan, kasir, struk, rekap)."
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  resto_core:
+    path: ../resto_core
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+  qr_flutter: ^4.1.0
+  pdf: ^3.11.1
+  printing: ^5.13.2
+
+dev_dependencies:
+  flutter_lints: ^5.0.0

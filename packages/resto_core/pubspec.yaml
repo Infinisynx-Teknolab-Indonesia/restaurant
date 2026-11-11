@@ -1,0 +1,41 @@
+name: resto_core
+description: "Paket bersama RestoBake (API client, model, tema, realtime, widget)."
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+  web_socket_channel: ^3.0.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter_400Regular.ttf
+          weight: 400
+        - asset: fonts/Inter_500Medium.ttf
+          weight: 500
+        - asset: fonts/Inter_600SemiBold.ttf
+          weight: 600
+        - asset: fonts/Inter_700Bold.ttf
+          weight: 700
+        - asset: fonts/Inter_800ExtraBold.ttf
+          weight: 800
+    - family: PlayfairDisplay
+      fonts:
+        - asset: fonts/PlayfairDisplay_600SemiBold.ttf
+          weight: 600
+        - asset: fonts/PlayfairDisplay_700Bold.ttf
+          weight: 700

@@ -1,0 +1,517 @@
+# Admin panel & pesan server — Bahasa Indonesia || English || 中文
+30 hari || 30 days || 30 天
+7 hari || 7 days || 7 天
+Admin Server || Admin Server || 管理服务器
+RestoBake Admin || RestoBake Admin || RestoBake 管理后台
+Aksi || Action || 操作
+Aksi tidak valid || Invalid action || 无效操作
+Aktif || Active || 启用
+Aktif / nonaktif || Active / inactive || 启用 / 停用
+Akun Saya || My Account || 我的账户
+Akun aktif || Account active || 账户已启用
+Akun dinonaktifkan, hubungi admin || Account disabled, contact the admin || 账户已停用，请联系管理员
+Akun ini tidak punya akses ke aplikasi ini || This account has no access to this app || 此账户无权使用该应用
+Akun tidak aktif || Account inactive || 账户未启用
+Alamat pengantaran wajib diisi || Delivery address is required || 必须填写配送地址
+Alamat server untuk aplikasi HP (Customer / Resto / Kitchen) || Server address for the mobile apps (Customer / Resto / Kitchen) || 手机 App 的服务器地址（顾客 / 餐厅 / 厨房）
+Alamat untuk aplikasi HP || Address for mobile apps || 手机 App 连接地址
+Alasan pembatalan (wajib, tercatat di Koreksi Pesanan): || Cancellation reason (required, recorded in Order Corrections): || 取消原因（必填，记录在订单更正中）：
+Alasan refund (tercatat di Koreksi Pesanan): || Refund reason (recorded in Order Corrections): || 退款原因（记录在订单更正中）：
+Alasan pembatalan: || Cancellation reason: || 取消原因：
+Anda || You || 您
+Anda sudah absen masuk & pulang hari ini || You have already clocked in & out today || 您今天已上下班打卡
+Anda tidak punya akses untuk fitur ini || You don't have access to this feature || 您无权使用此功能
+App Customer || Customer App || 顾客 App
+Area || Area || 区域
+Bagikan ke member || Gift to members || 发放给会员
+Bagikan voucher ke semua member yang cocok? || Gift this voucher to all matching members? || 将优惠券发放给所有符合条件的会员？
+Bar / Minuman || Bar / Drinks || 吧台 / 饮品
+Batas per member || Limit per member || 每位会员限额
+Batas tukar voucher ini {}x per member || This voucher can be redeemed {}x per member || 每位会员限兑换 {} 次
+Belum Dibayar || Unpaid || 未付款
+Belum ada koreksi pesanan || No order corrections yet || 暂无订单更正
+Belum ada log || No logs yet || 暂无日志
+Belum ada member || No members yet || 暂无会员
+Belum ada pembayaran || No payments yet || 暂无付款
+Belum ada pesanan || No orders yet || 暂无订单
+Belum ada penjualan || No sales yet || 暂无销售
+Belum ada staf || No staff yet || 暂无员工
+Belum ada voucher. Klik Buat Voucher untuk menambahkan promo, voucher tukar poin, atau hadiah. || No vouchers yet. Click Create Voucher to add a promo, points voucher, or gift. || 暂无优惠券。点击“创建优惠券”添加优惠、积分兑换券或礼品券。
+Belum dicek || Not reviewed || 未审核
+Berakhir || Ended || 已结束
+Bergabung || Joined || 加入时间
+Berlaku || Valid || 有效
+Berlaku mulai || Valid from || 生效时间
+Berlaku sampai || Valid until || 有效期至
+Bill || Bill || 账单
+Bisa dipakai di || Usable at || 适用渠道
+Bonus / Service charge || Bonus / Service charge || 奖金 / 服务费
+Buat Kategori || Create Category || 新建分类
+Buat Voucher || Create Voucher || 创建优惠券
+Bukan pesanan Anda || Not your order || 不是您的订单
+Cara mendapatkan || How to get || 获取方式
+Catatan pengecekan (mis. sudah ditegur / wajar): || Review note (e.g. warned / acceptable): || 审核备注（如：已提醒 / 合理）：
+Cetak || Print || 打印
+Dapat || Earned || 获得
+Dapat Poin || Points Earned || 获得积分
+Dashboard || Dashboard || 仪表盘
+Data || Data || 数据
+Data gaji tidak ditemukan || Payroll data not found || 未找到工资数据
+Data koreksi tidak ditemukan || Correction record not found || 未找到更正记录
+Deskripsi || Description || 描述
+Deskripsi singkat || Short description || 简短描述
+Di dompet || In wallet || 钱包中
+Dibayar || Paid at || 付款时间
+Dibuat || Created || 创建时间
+Diduplikat || Duplicated || 已复制
+Diedit oleh || Edited by || 修改人
+Dipakai || Used || 已使用
+Diskon || Discount || 折扣
+Ditandai sudah dicek || Marked as reviewed || 已标记为已审核
+Ditukar dengan || Redeemed for || 兑换所需
+Dompet Member || Member Wallets || 会员钱包
+Draft || Draft || 草稿
+Duplikat || Duplicate || 复制
+Email sudah terdaftar || Email already registered || 邮箱已注册
+Export CSV || Export CSV || 导出 CSV
+Format gambar harus jpg/png/webp/gif || Image must be jpg/png/webp/gif || 图片格式须为 jpg/png/webp/gif
+Format periode harus YYYY-MM || Period format must be YYYY-MM || 期间格式须为 YYYY-MM
+Format tanggal tidak valid: {} || Invalid date format: {} || 日期格式无效：{}
+GIFT || GIFT || 礼品
+Gagal export || Export failed || 导出失败
+Gagal menghubungi payment gateway: {} || Failed to contact the payment gateway: {} || 无法连接支付网关：{}
+Gaji || Salary || 工资
+Gaji Pokok || Base Salary || 基本工资
+Gaji Pokok / bulan || Base salary / month || 基本工资 / 月
+Gaji diperbarui || Salary updated || 工资已更新
+Gaji ditandai dibayar || Salary marked as paid || 工资已标记为已发放
+Gaji sudah dibayar || Salary already paid || 工资已发放
+Gaji sudah dibayar, tidak bisa diubah || Salary already paid, cannot be changed || 工资已发放，无法修改
+Gambar diunggah || Image uploaded || 图片已上传
+Gratis ongkos kirim untuk pesanan Delivery. || Free delivery for Delivery orders. || 外送订单免运费。
+HP || Phone || 手机
+HRD/Owner || HR/Owner || 人事/老板
+Hanya admin yang bisa membuat admin || Only an admin can create an admin || 只有管理员可以创建管理员
+Hanya hari || Only on || 仅限
+Hanya hari tertentu || Only certain days || 仅限特定日期
+Hanya member yang bisa menukar poin || Only members can redeem points || 只有会员可以兑换积分
+Hanya pembayaran lunas yang bisa direfund || Only paid payments can be refunded || 只有已付款的交易可以退款
+Hanya pukul || Only between || 仅限时段
+Hapus kategori || Delete category || 删除分类
+Hapus meja || Delete table || 删除餐桌
+Harga || Price || 价格
+Harga (Rp) || Price (Rp) || 价格 (Rp)
+Harga poin * || Points price * || 积分价格 *
+Harga tidak valid || Invalid price || 价格无效
+Hari ini || Today || 今天
+Hubungkan member dulu untuk pakai poin || Link a member first to use points || 请先关联会员再使用积分
+Ikon || Icon || 图标
+Indoor || Indoor || 室内
+Outdoor || Outdoor || 室外
+Informasi Voucher || Voucher Info || 优惠券信息
+Isi jam mulai dan jam selesai sekaligus || Fill in both start and end time || 请同时填写开始和结束时间
+Isi kode approval / 4 digit terakhir kartu dari mesin EDC || Enter the approval code / last 4 card digits from the EDC machine || 请输入 EDC 授权码 / 卡号后 4 位
+Isi minimal salah satu: username, email, atau HP || Fill in at least one: username, email, or phone || 请至少填写用户名、邮箱或手机号之一
+Isi minimal satu nomor HP member || Enter at least one member phone number || 请至少填写一个会员手机号
+Item tidak ditemukan || Item not found || 未找到菜品
+Jabatan || Position || 职位
+Jam Ramai || Peak Hours || 高峰时段
+Jam mulai || Start time || 开始时间
+Jam selesai || End time || 结束时间
+Jenis || Type || 类型
+Jenis kategori harus makanan atau minuman || Category type must be food or drink || 分类类型必须是食物或饮品
+Jenis voucher tidak dikenal || Unknown voucher type || 未知的优惠券类型
+Jumat || Friday || 星期五
+Jumlah || Amount || 数量
+Jumlah Kursi || Seats || 座位数
+Jumlah item tidak valid || Invalid item quantity || 菜品数量无效
+Jumlah poin (+ tambah / - kurangi) || Points (+ add / - subtract) || 积分（+ 增加 / - 扣减）
+Jumlah tidak valid (gunakan hapus item untuk 0) || Invalid quantity (use remove item for 0) || 数量无效（数量为 0 请使用删除菜品）
+Kamis || Thursday || 星期四
+Kasir (aplikasi Resto) || Cashier (Resto app) || 收银员（餐厅 App）
+Katalog Tukar Poin || Points Catalogue || 积分兑换目录
+Kategori || Categories || 分类
+Kategori dihapus || Category deleted || 分类已删除
+Kategori disembunyikan || Category hidden || 分类已隐藏
+Kategori disimpan || Category saved || 分类已保存
+Kategori ditampilkan || Category shown || 分类已显示
+Kategori masih berisi menu, pindahkan/hapus menunya dulu || The category still has menu items, move/delete them first || 分类下仍有菜品，请先移动或删除
+Kategori menu yang dapat potongan || Menu categories eligible for discount || 可享优惠的菜品分类
+Kategori tidak ditemukan || Category not found || 未找到分类
+Kelola || Manage || 管理
+Keluar dari admin panel? || Sign out of the admin panel? || 退出管理后台？
+Kesalahan Input per Waiter || Input Errors per Waiter || 各服务员录入错误
+Keterangan || Notes || 说明
+Keuangan || Finance || 财务
+Khusus kasir || Cashier only || 仅限收银台
+Khusus member baru yang belum pernah bertransaksi. || Only for new members with no previous transactions. || 仅限从未消费过的新会员。
+Khusus member tier || Only for member tier || 仅限会员等级
+Khusus pemesanan lewat aplikasi. || Only for orders through the app. || 仅限 App 下单。
+Khusus pesanan || Only for orders || 仅限订单类型
+Khusus transaksi di kasir. || Only for transactions at the cashier. || 仅限收银台交易。
+Kitchen (aplikasi Kitchen) || Kitchen (Kitchen app) || 厨房（厨房 App）
+Kode || Code || 代码
+Kode Promo || Promo Code || 优惠码
+Kode voucher tidak ditemukan || Voucher code not found || 未找到优惠码
+Kode {} sudah dipakai voucher lain || Code {} is already used by another voucher || 代码 {} 已被其他优惠券使用
+Konfirmasi || Confirm || 确认
+Kontak || Contact || 联系方式
+Kopi, Jus, Teh || Coffee, Juice, Tea || 咖啡、果汁、茶
+Koreksi || Correction || 更正
+Koreksi Pesanan || Order Corrections || 订单更正
+Koreksi per Kasir / Pengawas || Corrections per Cashier / Supervisor || 各收银员 / 主管更正次数
+Kuota Habis || Quota Used Up || 名额已满
+Kuota terbatas || Limited quota || 名额有限
+Kuota total || Total quota || 总名额
+Lahir || Born || 出生
+Laporan || Reports || 报表
+Lembur || Overtime || 加班
+Lihat semua || View all || 查看全部
+Log Aktivitas || Activity Log || 操作日志
+Login Terakhir || Last Login || 最近登录
+Login terakhir || Last login || 最近登录
+Loyalty || Loyalty || 会员忠诚度
+Loyalty & Poin || Loyalty & Points || 会员与积分
+Makanan Utama, Roti & Pastry || Main Course, Bread & Pastry || 主食、面包与糕点
+Maks || Max || 最高
+Maks. potongan || Max. discount || 最高优惠
+Maksimal || Maximum || 最高
+Manager (semua aplikasi) || Manager (all apps) || 经理（所有 App）
+Masa berlaku di dompet || Validity in wallet || 钱包内有效期
+Masuk dengan akun admin atau manager. || Sign in with an admin or manager account. || 请使用管理员或经理账户登录。
+Meja dihapus || Table deleted || 餐桌已删除
+Meja disimpan || Table saved || 餐桌已保存
+Meja punya riwayat pesanan, ubah saja datanya || This table has order history, edit it instead || 此餐桌有订单记录，请改为修改信息
+Meja tidak ditemukan || Table not found || 未找到餐桌
+Member & poin || Members & points || 会员与积分
+Member dengan nomor itu tidak ditemukan || No member found with that number || 未找到该手机号的会员
+Member dinonaktifkan || Member deactivated || 会员已停用
+Member disimpan || Member saved || 会员已保存
+Member tidak ditemukan || Member not found || 未找到会员
+Menu '{}' sedang tidak tersedia || Menu '{}' is currently unavailable || 菜品“{}”暂不可售
+Menu Makanan || Food Menu || 食物菜单
+Menu Minuman || Drinks Menu || 饮品菜单
+Menu Terlaris Bulan Ini || Best Sellers This Month || 本月畅销菜品
+Menu dihapus || Menu item deleted || 菜品已删除
+Menu pernah dipesan → disembunyikan (Habis) || Item has been ordered before → hidden (Sold out) || 菜品曾被点过 → 已隐藏（售罄）
+Metode || Method || 方式
+Metode Pembayaran || Payment Methods || 付款方式
+Metode online: qris atau card || Online method: qris or card || 线上方式：qris 或 card
+Metode pembayaran tidak dikenal || Unknown payment method || 未知的付款方式
+Midtrans (QRIS/e-wallet/kartu kredit) || Midtrans (QRIS/e-wallet/credit card) || Midtrans（QRIS/电子钱包/信用卡）
+Min. || Min. || 最低
+Minggu || Sunday || 星期日
+Minimal belanja || Minimum spend || 最低消费
+Minimal tukar {} poin || Minimum redeem {} points || 至少兑换 {} 积分
+Mode Midtrans || Midtrans Mode || Midtrans 模式
+Mulai || Start || 开始
+Nama kategori * || Category name * || 分类名称 *
+Nama kategori wajib diisi || Category name is required || 必须填写分类名称
+Nama voucher * || Voucher name * || 优惠券名称 *
+Nama voucher wajib diisi || Voucher name is required || 必须填写优惠券名称
+Nilai Tukar Langsung || Direct Exchange Value || 直接兑换价值
+Nilai potongan || Discount value || 优惠金额
+Nilai potongan harus lebih dari 0 || Discount value must be greater than 0 || 优惠金额必须大于 0
+Nomor HP member (satu per baris atau pisahkan koma) || Member phone numbers (one per line or comma-separated) || 会员手机号（每行一个或用逗号分隔）
+Nomor HP sudah terdaftar || Phone number already registered || 手机号已注册
+Nomor meja sudah ada || Table number already exists || 桌号已存在
+Nonaktif || Inactive || 停用
+Nonaktifkan || Deactivate || 停用
+Notification URL di dashboard Midtrans || Notification URL in the Midtrans dashboard || Midtrans 后台的通知 URL
+OTOMATIS || AUTO || 自动
+PTS || PTS || 积分
+Pajak & Biaya || Tax & Fees || 税费
+Password Baru || New Password || 新密码
+Password Baru (kosongkan jika tetap) || New Password (leave blank to keep) || 新密码（不改请留空）
+Password Lama || Old Password || 旧密码
+Password direset || Password reset || 密码已重置
+Password lama salah || Old password is incorrect || 旧密码错误
+Payment Gateway Online || Online Payment Gateway || 在线支付网关
+Payroll & Absensi || Payroll & Attendance || 工资与考勤
+Payroll & absensi || Payroll & attendance || 工资与考勤
+Payroll Gaji || Payroll || 工资发放
+Pemakaian || Usage || 使用情况
+Pembayaran tidak ditemukan || Payment not found || 未找到付款记录
+Pendapatan Harian || Daily Revenue || 每日营收
+Pendapatan hari ini || Today's revenue || 今日营收
+Pendapatan Bulan Ini || Revenue This Month || 本月营收
+Pesanan Hari Ini || Orders Today || 今日订单
+Total Member || Total Members || 会员总数
+Menu / Staf || Menu / Staff || 菜品 / 员工
+sejak tanggal 1 || since the 1st || 自本月 1 日起
+item menu & karyawan || menu items & employees || 菜品与员工
+Pending || Pending || 待处理
+Penerima || Recipients || 接收人
+Pengaturan disimpan || Settings saved || 设置已保存
+Pengawas (koreksi pesanan lunas) || Supervisor (corrects paid orders) || 主管（更正已付款订单）
+Pengawasan karyawan || Staff oversight || 员工监管
+Penjualan 7 Hari Terakhir || Sales in the Last 7 Days || 近 7 天销售
+Penjualan per Menu || Sales per Menu Item || 各菜品销售
+Penukaran & Hadiah Terbaru || Latest Redemptions & Gifts || 最新兑换与赠送
+Penyesuaian admin || Admin adjustment || 管理员调整
+Per Kategori || By Category || 按分类
+Peran || Role || 角色
+Periode Berlaku || Validity Period || 有效期
+Permintaan gagal || Request failed || 请求失败
+Pesanan Terbaru || Latest Orders || 最新订单
+Pesanan belum dibayar || Order not paid yet || 订单尚未付款
+Pesanan dikirim ke || Order sent to || 订单已发送至
+Pesanan online, dapur, kasir, member & loyalty, hingga payroll karyawan — semuanya dalam satu panel. || Online orders, kitchen, cashier, members & loyalty, all the way to staff payroll — all in one panel. || 线上订单、厨房、收银、会员积分，乃至员工工资——尽在一个后台。
+Pesanan realtime || Real-time orders || 实时订单
+Pesanan sudah DIBAYAR — hanya Pengawas yang bisa mengubah || The order is already PAID — only a Supervisor can make changes || 订单已付款——只有主管可以修改
+Pesanan sudah dibayar || Order already paid || 订单已付款
+Pesanan sudah dibayar / dibatalkan || Order already paid / cancelled || 订单已付款 / 已取消
+Pesanan sudah dibayar, hubungi kasir || Order already paid, contact the cashier || 订单已付款，请联系收银员
+Pesanan sudah dikirim ke dapur — hanya Kasir yang bisa mengubah || The order was already sent to the kitchen — only the Cashier can make changes || 订单已发送到厨房——只有收银员可以修改
+Pesanan sudah diproses dapur, tidak bisa dibatalkan || The kitchen is already processing the order, it cannot be cancelled || 厨房已在制作，无法取消
+Pesanan sudah ditutup || Order already closed || 订单已关闭
+Pesanan sudah lunas || Order already paid || 订单已付清
+Pesanan sudah selesai/dibayar, buat pesanan baru || Order already completed/paid, create a new order || 订单已完成/已付款，请新建订单
+Pesanan tidak ditemukan || Order not found || 未找到订单
+Pilih / isi nomor meja yang valid || Choose / enter a valid table number || 请选择或输入有效桌号
+Poin Aktif || Active Points || 可用积分
+Poin Anda kurang {} || You are {} points short || 您还差 {} 积分
+Poin diperbarui || Points updated || 积分已更新
+Poin member tidak cukup || Member doesn't have enough points || 会员积分不足
+Poin tidak cukup || Not enough points || 积分不足
+Potongan || Deductions || 扣款
+Potongan (kasbon, BPJS, absen) || Deductions (advances, insurance, absence) || 扣款（预支、社保、缺勤）
+Potongan hanya untuk menu kategori || Discount only for menu categories || 仅限以下菜品分类优惠
+Potongan persen harus 1–100 || Percentage discount must be 1–100 || 百分比优惠须为 1–100
+Pratinjau kartu voucher || Voucher card preview || 优惠券卡片预览
+Production || Production || 正式环境
+Profil Restoran || Restaurant Profile || 餐厅资料
+Program || Programs || 营销活动
+Qty || Qty || 数量
+Rabu || Wednesday || 星期三
+Referensi || Reference || 参考号
+Refund berhasil || Refund successful || 退款成功
+Refund pembayaran ini? Pesanan akan dibatalkan dan poin member ditarik. || Refund this payment? The order will be cancelled and member points withdrawn. || 确定退款？订单将被取消，会员积分将被扣回。
+Rekening Bank || Bank Account || 银行账户
+Rekomendasi (tampil di beranda aplikasi customer) || Recommended (shown on the customer app home) || 推荐（显示在顾客 App 首页）
+Reset || Reset || 重置
+Reset Password || Reset Password || 重置密码
+Riwayat Pesanan || Order History || 订单历史
+Role || Role || 角色
+Role ini tidak bisa membuat pesanan || This role cannot create orders || 此角色无法创建订单
+Role tidak dikenal || Unknown role || 未知角色
+Rp || Rp || Rp
+S&K utama dibuat otomatis dari pengaturan di atas (lihat pratinjau). Isi di sini untuk ketentuan tambahan. || The main T&C are generated automatically from the settings above (see preview). Add extra terms here. || 主要条款会根据上方设置自动生成（见预览）。可在此填写附加条款。
+SLIP GAJI || PAYSLIP || 工资单
+Sabtu || Saturday || 星期六
+Sandbox || Sandbox || 沙盒
+Selasa || Tuesday || 星期二
+Selisih || Difference || 差额
+Selisih nilai || Value difference || 金额差异
+Semua ditandai dicek || All marked as reviewed || 已全部标记为已审核
+Semua jenis || All types || 全部类型
+Semua metode || All methods || 全部方式
+Semua pembayaran || All payments || 全部付款状态
+Semua pengedit || All editors || 全部修改人
+Semua status || All statuses || 全部状态
+Semua tahap || All stages || 全部阶段
+Semua tipe || All types || 全部类型
+Semua voucher || All vouchers || 全部优惠券
+Semua waiter || All waiters || 全部服务员
+Senin || Monday || 星期一
+Seret || Drag || 拖动
+Seret untuk mengurutkan || Drag to reorder || 拖动排序
+Server mengubahnya jadi QRIS dinamis dengan nominal otomatis untuk kasir & aplikasi customer. || The server turns it into a dynamic QRIS with the amount filled in automatically for the cashier & customer app. || 服务器会将其转换为自动带金额的动态 QRIS，供收银和顾客 App 使用。
+Service charge hanya untuk dine-in. Pajak dihitung dari (subtotal − diskon + service). || Service charge applies to dine-in only. Tax is calculated on (subtotal − discount + service). || 服务费仅适用于堂食。税费按（小计 − 折扣 + 服务费）计算。
+Sesi berakhir, silakan login ulang || Session expired, please sign in again || 会话已过期，请重新登录
+Sesuaikan Poin || Adjust Points || 调整积分
+Setelah bayar || After payment || 付款后
+Setelah dibayar || After payment || 付款后
+Setelah dikirim || After sending || 发送后
+Setelah kirim || After sending || 发送后
+Setiap perubahan pesanan setelah dikirim ke dapur (oleh Kasir) atau setelah dibayar (oleh Pengawas) tercatat di sini — lengkap dengan alasan, siapa yang mengedit, dan waiter yang menginput. || Every order change after it was sent to the kitchen (by the Cashier) or after payment (by a Supervisor) is recorded here — with the reason, who edited it, and the waiter who entered it. || 订单发送到厨房后（由收银员）或付款后（由主管）的每次修改都会记录在此——包括原因、修改人以及录入的服务员。
+Signature tidak valid || Invalid signature || 签名无效
+Simpan Pengaturan || Save Settings || 保存设置
+Simpan Voucher || Save Voucher || 保存优惠券
+Simulator (testing) || Simulator (testing) || 模拟器（测试）
+Sistem || System || 系统
+Slip Gaji || Payslip || 工资单
+Staf || Staff || 员工
+Staf disimpan || Staff saved || 员工已保存
+Status || Status || 状态
+Status diperbarui || Status updated || 状态已更新
+Status item tidak valid || Invalid item status || 菜品状态无效
+Status meja tidak valid || Invalid table status || 餐桌状态无效
+Status pembayaran {} || Payment status {} || 付款状态 {}
+Status tidak valid (gunakan endpoint cancel untuk batal) || Invalid status (use the cancel endpoint to cancel) || 状态无效（取消请使用 cancel 接口）
+Stok '{}' tinggal {} || '{}' stock: only {} left || “{}” 仅剩 {}
+Stok voucher sudah habis || Voucher stock is used up || 优惠券已领完
+Sudah Dibayar || Paid || 已付款
+Sudah dibayar (Pengawas) || Already paid (Supervisor) || 已付款（主管）
+Sudah dibayar · Pengawas || Paid · Supervisor || 已付款 · 主管
+Sudah dicek || Reviewed || 已审核
+Dicek || Reviewed || 已审核
+Sudah dikirim (Kasir) || Already sent (Cashier) || 已发送（收银）
+Sudah dikirim · Kasir || Sent · Cashier || 已发送 · 收银
+Sumber || Source || 来源
+Syarat & Batasan || Terms & Limits || 条件与限制
+Syarat & Ketentuan Tambahan || Additional Terms & Conditions || 附加条款
+TOTAL || TOTAL || 合计
+Tahap || Stage || 阶段
+Tambah || Add || 添加
+Tambah Kategori || Add Category || 添加分类
+Tambah Meja || Add Table || 添加餐桌
+Tambah Member || Add Member || 添加会员
+Tambah Staf || Add Staff || 添加员工
+Tambah item || Add item || 加菜
+Tampilkan di aplikasi || Show in app || 在 App 中显示
+Tampilkan di aplikasi customer & kasir || Show in customer & cashier apps || 在顾客与收银 App 中显示
+Tandai || Mark || 标记
+Tandai dicek || Mark reviewed || 标记已审核
+Tandai gaji || Mark salary || 标记工资
+Tandai semua dicek || Mark all reviewed || 全部标记为已审核
+Tandai semua koreksi sebagai sudah dicek? || Mark all corrections as reviewed? || 将所有更正标记为已审核？
+Tanggal Lahir || Date of Birth || 出生日期
+Tanggal Masuk || Join Date || 入职日期
+Tanggal selesai harus setelah tanggal mulai || End date must be after the start date || 结束日期必须晚于开始日期
+Terisi || Occupied || 有客
+Terjadwal || Scheduled || 已排期
+Terkirim ke || Sent to || 已发送给
+Tersedia (bisa dipesan) || Available (can be ordered) || 可售（可点单）
+Tidak ada || None || 无
+Tidak ada kesalahan input 🎉 || No input errors 🎉 || 没有录入错误 🎉
+Tidak ada member yang cocok || No matching members || 没有符合条件的会员
+Tidak ada pesanan aktif || No active orders || 没有进行中的订单
+Tidak bisa menonaktifkan akun sendiri || You cannot deactivate your own account || 不能停用自己的账户
+Tidak dapat diuangkan dan satu pesanan hanya bisa memakai satu voucher. || Not exchangeable for cash; one voucher per order. || 不可兑换现金，每笔订单限用一张优惠券。
+Tidak tampil di app || Hidden in app || 不在 App 显示
+Tier || Tier || 等级
+Tier Member || Member Tier || 会员等级
+Tier minimal || Minimum tier || 最低等级
+Tipe pesanan || Order type || 订单类型
+Tipe pesanan tidak valid || Invalid order type || 订单类型无效
+Tipe potongan tidak dikenal || Unknown discount type || 未知的优惠类型
+Total Belanja || Total Spent || 消费总额
+Total Gaji || Total Salary || 工资总额
+Total koreksi || Total corrections || 更正总数
+Total potongan || Total deductions || 扣款合计
+Tunai · Kartu · QRIS || Cash · Card · QRIS || 现金 · 刷卡 · QRIS
+Tunjangan (makan, transport) || Allowance (meals, transport) || 津贴（餐补、交通）
+URL Gambar || Image URL || 图片地址
+Uang kurang. Total Rp{} || Not enough cash. Total Rp{} || 金额不足。应付 Rp{}
+Ubah || Edit || 编辑
+Ubah Kategori || Edit Category || 编辑分类
+Ubah Meja || Edit Table || 编辑餐桌
+Ubah Member || Edit Member || 编辑会员
+Ubah Staf || Edit Staff || 编辑员工
+Ubah Voucher || Edit Voucher || 编辑优惠券
+Ubah Status || Change Status || 修改状态
+Ubah catatan || Change note || 修改备注
+Ubah jumlah || Change quantity || 修改数量
+Ukuran gambar maksimal 5 MB || Maximum image size is 5 MB || 图片最大 5 MB
+Urutan disimpan || Order saved || 排序已保存
+User || User || 用户
+User tidak ditemukan || User not found || 未找到用户
+Username (untuk login) || Username (for login) || 用户名（用于登录）
+Username / Email || Username / Email || 用户名 / 邮箱
+Username/HP/email atau password salah || Wrong username/phone/email or password || 用户名/手机号/邮箱或密码错误
+Utama || Main || 主要
+Voucher & Promo || Vouchers & Promos || 优惠券与促销
+Voucher Tukar Poin || Points Voucher || 积分兑换券
+Voucher di dompet sudah kedaluwarsa || The wallet voucher has expired || 钱包中的优惠券已过期
+Voucher diaktifkan || Voucher activated || 优惠券已启用
+Voucher diduplikat (nonaktif) || Voucher duplicated (inactive) || 优惠券已复制（停用）
+Voucher dihapus || Voucher deleted || 优惠券已删除
+Voucher dinonaktifkan || Voucher deactivated || 优惠券已停用
+Voucher disimpan || Voucher saved || 优惠券已保存
+Voucher hadiah hanya bisa dipakai dengan kode pribadi dari dompet member || Gift vouchers can only be used with the personal code from the member's wallet || 礼品券只能使用会员钱包中的专属代码
+Voucher ini harus ditukar dengan poin dulu di aplikasi || This voucher must first be redeemed with points in the app || 此优惠券需先在 App 中用积分兑换
+Voucher ini khusus tier {} ke atas || This voucher is for tier {} and above || 此优惠券仅限 {} 及以上等级
+Voucher ini milik member lain || This voucher belongs to another member || 此优惠券属于其他会员
+Voucher ini sudah dipakai || This voucher has already been used || 此优惠券已使用
+Voucher masuk ke || Voucher sent to || 优惠券已发至
+Voucher sudah berakhir || Voucher has ended || 优惠券已结束
+Voucher sudah dipakai → dinonaktifkan || Voucher already used → deactivated || 优惠券已被使用 → 已停用
+Voucher tidak ditemukan || Voucher not found || 未找到优惠券
+Voucher tukar poin tidak tersedia || Points voucher not available || 积分兑换券不可用
+Voucher tukar poin wajib punya harga poin || A points voucher must have a points price || 积分兑换券必须设置积分价格
+Waiter (aplikasi Resto) || Waiter (Resto app) || 服务员（餐厅 App）
+Waiter input || Entered by || 录入服务员
+Warna kartu || Card colour || 卡片颜色
+Ya, lanjutkan || Yes, continue || 是，继续
+aktif di katalog || active in catalogue || 目录中上架
+atau Upload Gambar || or Upload Image || 或上传图片
+dari subtotal pesanan || of the order subtotal || 订单小计的
+dikoreksi Kasir || corrected by Cashier || 收银员更正
+dikoreksi Pengawas || corrected by Supervisor || 主管更正
+disalin — isi di aplikasi HP || copied — enter it in the mobile app || 已复制——请在手机 App 中填写
+ditandai habis || marked sold out || 已标记售罄
+dompet voucher || voucher wallets || 优惠券钱包
+hari ini || today || 今天
+hari sejak diberikan. || days after being given. || 天（自发放起）。
+ke atas. || and above. || 及以上。
+kosongkan bila tanpa batas || leave blank for no limit || 不限请留空
+kurangi animasi || reduce motion || 减少动画
+masih berisi || still contains || 仍包含
+member baru hari ini || new members today || 今日新会员
+menu. Pindahkan / hapus menunya dulu. || menu items. Move / delete them first. || 个菜品，请先移动或删除。
+menunggu pembayaran || awaiting payment || 待付款
+periode terpilih || selected period || 所选期间
+pesanan aktif || active orders || 进行中的订单
+pesanan || orders || 笔订单
+aktif || active || 进行中
+belum bayar || unpaid || 未付款
+poin di checkout || points at checkout || 结账时可用积分
+poin seumur hidup || lifetime points || 累计积分
+setiap transaksi lunas || per paid transaction || 每笔已付交易
+slip gaji dibuat || payslips created || 份工资单已生成
+sudah dibayar? || already paid? || 已发放？
+total perubahan tagihan || total bill change || 账单变动总额
+ubah aturan di Pengaturan || change the rules in Settings || 在设置中修改规则
+untuk mengubah urutan tampil di aplikasi. Kategori nonaktif tidak tampil di aplikasi customer & kasir. || to change the display order in the app. Inactive categories are hidden in the customer & cashier apps. || 以调整在 App 中的显示顺序。停用的分类不会在顾客和收银 App 中显示。
+wajib diisi || is required || 为必填项
+x / member || x / member || 次 / 会员
+x pemakaian per member. || uses per member. || 次（每位会员）。
+{} '{}' sudah dipakai || {} '{}' is already in use || {}“{}”已被使用
+{} sudah dipakai akun lain || {} is already used by another account || {} 已被其他账户使用
+Masuk dengan akun admin atau manager || Sign in with an admin or manager account || 请使用管理员或经理账户登录
+Pesanan baru {} || New order {} || 新订单 {}
+{} lunas {} || {} paid {} || {} 已付款 {}
+Koreksi {}: {} {} oleh {} — {} || Correction {}: {} {} by {} — {} || 更正 {}：{} {}，修改人 {} — {}
+Alamat {} disalin — isi di aplikasi HP || Address {} copied — enter it in the mobile app || 地址 {} 已复制——请在手机 App 中填写
+Gagal terhubung ke server || Cannot connect to server || 无法连接服务器
+Belum ada penjualan || No sales yet || 暂无销售
+Muat ulang || Reload || 刷新
+Realtime || Real-time || 实时
+offline || offline || 离线
+live || live || 实时
+Klik untuk menyalin — isi alamat ini di aplikasi HP || Click to copy — enter this address in the mobile app || 点击复制——在手机 App 中填写此地址
+Bahasa || Language || 语言
+Pesanan || Orders || 订单
+Pembayaran || Payments || 付款
+Member || Members || 会员
+Meja || Tables || 餐桌
+Batal || Cancelled || 已取消
+Diantar || Served || 已上菜
+Siap Antar || Ready || 待上菜
+Refund || Refund || 退款
+Kedaluwarsa || Expired || 已过期
+Pelayan || Waiter || 服务员
+Catatan || Notes || 备注
+Poin || Points || 积分
+Pelanggan || Customer || 顾客
+Pakai || Used || 使用
+Dapat || Earned || 获得
+Ongkir || Delivery fee || 运费
+Pajak || Tax || 税
+Service || Service || 服务费
+Dicek || Reviewed || 已审核
+Ubah jumlah || Change quantity || 修改数量
+Hapus item || Remove item || 删除菜品
+Batalkan pesanan || Cancel order || 取消订单
+Diskon / poin || Discount / points || 折扣 / 积分
+Simpan || Save || 保存
+Keluar || Sign out || 退出
+Selesai || Completed || 已完成
+Tema || Theme || 主题
+Admin Panel || Admin Panel || 管理后台
+koreksi || corrections || 条更正
+Cari kode / item / alasan / nama... || Search code / item / reason / name... || 搜索单号 / 菜品 / 原因 / 姓名…
+Cari kode / nama / HP... || Search code / name / phone... || 搜索单号 / 姓名 / 手机…
+Cari aktivitas / user... || Search activity / user... || 搜索操作 / 用户…
+Riwayat Koreksi || Correction History || 更正记录

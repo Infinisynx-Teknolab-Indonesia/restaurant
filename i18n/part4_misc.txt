@@ -1,0 +1,130 @@
+# Teks admin yang belum terjemah (voucher, mata uang, laporan, staf, dll.) — Indonesia || English || 中文
+Voucher Aktif || Active Vouchers || 有效优惠券
+dari {} voucher || of {} vouchers || 共 {} 张优惠券
+Total Pemakaian || Total Uses || 使用总数
+pesanan memakai voucher || orders used a voucher || 笔订单使用了优惠券
+Total Potongan || Total Discounts || 优惠总额
+diberikan ke pelanggan || given to customers || 已让利给顾客
+Di Dompet Member || In Member Wallets || 会员钱包中
+hasil tukar poin & hadiah || from point redemptions & gifts || 来自积分兑换和赠送
+Berlaku {} hari || Valid {} days || 有效期 {} 天
+Berlaku {} hari sejak diberikan. || Valid for {} days from when it is given. || 自发放起 {} 天内有效。
+Berlaku {} – {}. || Valid {} – {}. || 有效期 {} – {}。
+{} kali dipakai || used {} times || 已使用 {} 次
+{} kali dipakai · {} di dompet || used {} times · {} in wallets || 已使用 {} 次 · 钱包中 {} 张
+{} di dompet || {} in wallets || 钱包中 {} 张
+Cari nama / kode... || Search name / code... || 搜索名称 / 代码...
+Nama voucher || Voucher name || 优惠券名称
+Berlaku s/d || Valid until || 有效期至
+Buat acak || Generate random || 随机生成
+Khusus member baru || New members only || 仅限新会员
+Nomor HP tertentu || Specific phone numbers || 指定手机号
+Per tier || Per tier || 按等级
+Aplikasi & kasir || App & cashier || 应用和收银台
+Aplikasi Customer || Customer App || 顾客应用
+Aplikasi customer saja || Customer app only || 仅顾客应用
+Kasir saja || Cashier only || 仅收银台
+Bagikan "{}" || Share "{}" || 分享“{}”
+Bagikan "{}" ke member || Share "{}" with members || 将“{}”分享给会员
+Hapus voucher {}? Voucher yang sudah pernah dipakai hanya akan dinonaktifkan. || Delete voucher {}? Vouchers that have already been used will only be deactivated. || 删除优惠券 {}？已被使用过的优惠券只会被停用。
+IDR — Rupiah || IDR — Rupiah || IDR — 印尼盾
+USD — US Dollar || USD — US Dollar || USD — 美元
+SGD — Singapore Dollar || SGD — Singapore Dollar || SGD — 新加坡元
+MYR — Ringgit || MYR — Ringgit || MYR — 马来西亚林吉特
+Kurs: 1 {} = … {} || Rate: 1 {} = … {} || 汇率：1 {} = … {}
+Mata uang sekarang {} || Currency is now {} || 当前货币为 {}
+Mata uang sekarang {} — {} data dikonversi || Currency is now {} — {} records converted || 当前货币为 {} —— 已换算 {} 条数据
+Ganti ke {} dan konversi semua harga dengan kurs 1 {} = {} {}? || Switch to {} and convert all prices at 1 {} = {} {}? || 切换为 {}，并按 1 {} = {} {} 的汇率换算所有价格？
+Tema "{}" berhasil dipasang || Theme "{}" installed successfully || 主题“{}”安装成功
+Belum ada absensi. Staf absen lewat tombol Absen di aplikasi Resto / Kitchen. || No attendance yet. Staff clock in with the Attendance button in the Resto / Kitchen app. || 暂无考勤记录。员工可在 Resto / Kitchen 应用中点击“打卡”按钮。
+Belum pulang || Not clocked out || 未下班
+Hadir || Present || 出勤
+Pulang || Clock out || 下班
+Durasi || Duration || 时长
+Pokok || Base pay || 基本工资
+Tunjangan || Allowance || 津贴
+Bonus || Bonus || 奖金
+Rekening || Bank account || 银行账户
+BCA 1234567890 a.n. ... || BCA 1234567890 under the name ... || BCA 1234567890 户名 ...
+Daftar || Register || 注册
+Footer Struk || Receipt Footer || 小票页脚
+Habis || Sold out || 售罄
+Habis / Disembunyikan || Sold out / Hidden || 售罄 / 已隐藏
+Tersedia / Habis || Available / Sold out || 可售 / 售罄
+Jam Buka || Opening Hours || 营业时间
+Kelola kategori || Manage categories || 管理分类
+Midtrans Server Key || Midtrans Server Key || Midtrans 服务器密钥
+Mis. Kopi, Jus Segar, Teh || E.g. Coffee, Fresh Juice, Tea || 例如：咖啡、鲜榨果汁、茶
+Nama Restoran || Restaurant Name || 餐厅名称
+Pajak + Service || Tax + Service || 税费 + 服务费
+Pendapatan || Revenue || 营收
+Rata-rata / Transaksi || Average / Transaction || 平均每笔
+Poin tier Gold || Gold tier points || 金卡等级积分
+Poin tier Silver || Silver tier points || 银卡等级积分
+QRIS Statis Merchant (string hasil scan QRIS Anda) || Static Merchant QRIS (the string from scanning your QRIS) || 商户静态 QRIS（扫描您的 QRIS 得到的字符串）
+Service Dine-in (%) || Dine-in Service (%) || 堂食服务费 (%)
+Station || Station || 工作站
+Stok || Stock || 库存
+Telepon || Phone || 电话
+Terjual || Sold || 已售
+Bayar || Pay || 付款
+Voucher masuk ke dompet voucher member dengan kode pribadi{}. Member melihatnya di aplikasi customer. || The voucher goes into the member's voucher wallet with a personal code{}. Members see it in the customer app. || 优惠券将以专属代码放入会员的优惠券钱包{}。会员可在顾客应用中查看。
+, berlaku {} hari || , valid for {} days || ，有效期 {} 天
+Hapus hadiah ini? Bila sudah pernah ditukar, hadiah hanya dinonaktifkan. || Delete this reward? If it has already been redeemed, it will only be deactivated. || 删除此礼品？若已被兑换过，只会被停用。
+# Voucher cetak (fisik)
+Kode voucher / dompet member / voucher cetak || Voucher code / member wallet / printed voucher || 优惠码 / 会员钱包 / 纸质优惠券
+Voucher dari dompet member otomatis menghubungkan member ke pesanan. Voucher cetak bisa dipakai tanpa member. Semua syarat (minimal belanja, tanggal, jam, tier, kuota) dicek server. || A voucher from a member's wallet automatically links the member to the order. Printed vouchers can be used without a member. All terms (minimum spend, date, time, tier, quota) are checked by the server. || 使用会员钱包里的优惠券会自动关联会员。纸质优惠券无需会员即可使用。所有条件（最低消费、日期、时间、等级、名额）由服务器检查。
+Cetak voucher fisik || Print physical vouchers || 打印纸质优惠券
+Cetak Voucher "{}" || Print Voucher "{}" || 打印优惠券“{}”
+Cetak Voucher || Print Vouchers || 打印优惠券
+Setiap lembar voucher punya kode unik sekali pakai — bisa dibagikan ke pelanggan mana saja (member maupun bukan member), mis. untuk bazar, brosur, atau hadiah di kasir. Kasir cukup mengetik / scan kodenya saat pembayaran. || Every voucher slip has a unique single-use code — hand it to any customer (member or not), e.g. for bazaars, flyers or gifts at the counter. The cashier just types / scans the code at payment. || 每张优惠券都有唯一的一次性代码——可发给任何顾客（会员或非会员），例如用于市集、传单或收银台赠送。收银员结账时输入/扫描代码即可。
+Jumlah voucher || Number of vouchers || 优惠券数量
+Berlaku sampai || Valid until || 有效期至
+Catatan (opsional) || Note (optional) || 备注（可选）
+Mis. Bazar Ramadan, brosur Jl. Sudirman || E.g. Ramadan Bazaar, Jl. Sudirman flyers || 例如：斋月市集、苏迪曼路传单
+Ukuran voucher || Voucher size || 优惠券尺寸
+Kertas || Paper || 纸张
+Barcode (scan di kasir) || Barcode (scan at cashier) || 条形码（收银台扫描）
+Riwayat Cetak || Print History || 打印记录
+Buat Kode & Cetak || Create Codes & Print || 生成代码并打印
+Mini 50 × 28 mm || Mini 50 × 28 mm || 迷你 50 × 28 mm
+Kecil 66 × 34 mm || Small 66 × 34 mm || 小号 66 × 34 mm
+Kartu nama 90 × 50 mm || Business card 90 × 50 mm || 名片 90 × 50 mm
+Struk thermal 58 mm || Thermal receipt 58 mm || 热敏小票 58 mm
+Struk thermal 80 mm || Thermal receipt 80 mm || 热敏小票 80 mm
+Dicetak memanjang di printer struk {} mm, {} voucher berurutan (gunting di garis putus-putus). || Printed as a strip on a {} mm receipt printer, {} vouchers in a row (cut along the dashed lines). || 在 {} mm 小票打印机上连续打印 {} 张优惠券（沿虚线剪开）。
+{} voucher per lembar {} ({} × {}) → {} lembar untuk {} voucher. Gunting di garis putus-putus. || {} vouchers per {} sheet ({} × {}) → {} sheets for {} vouchers. Cut along the dashed lines. || 每张纸 {} 张优惠券，{} 纸（{} × {}）→ 需 {} 张纸打印 {} 张优惠券。沿虚线剪开。
+Batch || Batch || 批次
+Dibuat || Created || 创建时间
+Sisa || Remaining || 剩余
+Dibatalkan || Cancelled || 已作废
+Cetak ulang kode yang belum dipakai || Reprint unused codes || 重新打印未使用的代码
+Batalkan kode yang belum dipakai || Cancel unused codes || 作废未使用的代码
+Belum pernah dicetak || Never printed yet || 尚未打印过
+Batalkan semua kode batch {} yang belum dipakai? Voucher kertasnya tidak bisa dipakai lagi. || Cancel all unused codes in batch {}? Those paper vouchers can no longer be used. || 作废批次 {} 中所有未使用的代码？这些纸质优惠券将无法再使用。
+{} kode dibatalkan || {} codes cancelled || 已作废 {} 个代码
+{} kode voucher dibuat (batch {}) || {} voucher codes created (batch {}) || 已生成 {} 个优惠券代码（批次 {}）
+Jumlah cetak 1 – 1000 lembar || Print quantity 1 – 1000 || 打印数量 1 – 1000
+Tidak ada kode aktif untuk dicetak || No active codes to print || 没有可打印的有效代码
+Pop-up diblokir browser — izinkan pop-up untuk admin panel || The browser blocked the pop-up — allow pop-ups for the admin panel || 浏览器拦截了弹出窗口——请允许管理后台弹窗
+{} dicetak || {} printed || 已打印 {}
++ {} dicetak || + {} printed || + 已打印 {}
+Cetak · {} || Printed · {} || 纸质 · {}
+Maks. {} || Max. {} || 最高 {}
+Min. belanja {} || Min. spend {} || 最低消费 {}
+Khusus di kasir || Cashier only || 仅限收银台
+Berlaku s/d {} || Valid until {} || 有效期至 {}
+Tanpa batas waktu || No expiry || 无期限
+per lembar || per sheet || 每张纸
+lembar || sheets || 张
+Matikan "Headers and footers" & pilih skala 100% di dialog cetak || Turn off "Headers and footers" & choose 100% scale in the print dialog || 在打印对话框中关闭“页眉和页脚”并选择 100% 缩放
+Voucher cetak sudah kedaluwarsa / dibatalkan || Printed voucher has expired / been cancelled || 纸质优惠券已过期 / 已作废
+Aktifkan voucher dulu sebelum dicetak || Activate the voucher before printing || 请先启用优惠券再打印
+Format tanggal berlaku salah || Invalid validity date format || 有效日期格式错误
+Tanggal berlaku sudah lewat || The validity date has already passed || 有效日期已过
+Batch cetak tidak ditemukan || Print batch not found || 未找到打印批次
+Potongan harga || Off || 立减
+Ya, batalkan kode || Yes, cancel codes || 是，作废代码
+Setiap lembar voucher punya kode unik sekali pakai — bisa dibagikan ke pelanggan mana saja (member maupun bukan member), mis. untuk bazar, brosur, atau hadiah di kasir. Kasir cukup mengetik / scan kodenya saat pembayaran. || Every voucher slip has a unique single-use code — hand it to any customer (member or not), e.g. for bazaars, flyers or gifts at the counter. The cashier just types / scans the code at payment. || 每张优惠券都有唯一的一次性代码——可发给任何顾客（会员或非会员），例如用于市集、传单或收银台赠送。收银员结账时输入/扫描代码即可。
+{} per lembar · {} lembar {} || {} per sheet · {} sheets {} || 每张纸 {} 张 · 共 {} 张 {} 纸
+{} voucher || {} vouchers || {} 张优惠券

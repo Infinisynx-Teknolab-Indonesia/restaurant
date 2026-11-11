@@ -1,0 +1,218 @@
+# Hadiah tukar poin & tema aplikasi — Bahasa Indonesia || English || 中文
+Tukar Poin || Redeem Points || 积分兑换
+Katalog Hadiah || Rewards Catalogue || 礼品目录
+Hadiah Saya || My Rewards || 我的礼品
+Poin Anda || Your Points || 我的积分
+Tukar dengan gift card,\nsaldo e-wallet & hadiah || Redeem for gift cards,\ne-wallet credit & gifts || 兑换礼品卡、\n电子钱包余额和礼品
+Belum ada hadiah tersedia || No rewards available yet || 暂无可兑换礼品
+Belum ada hadiah yang ditukar || No rewards redeemed yet || 还没有兑换过礼品
+Kode langsung muncul setelah ditukar || The code appears right after redeeming || 兑换后立即显示兑换码
+Diproses admin, Anda akan diberi notifikasi || Processed by admin, you'll get a notification || 由管理员处理，完成后会通知您
+{} wajib diisi || {} is required || 必须填写{}
+Tersedia || Available || 可兑换
+Penukaran ditolak || Redemption rejected || 兑换被拒绝
+Penukaran sedang diproses || Redemption in progress || 兑换处理中
+KODE || CODE || 兑换码
+Admin akan memproses hadiah Anda. Anda akan mendapat notifikasi saat selesai. || The admin will process your reward. You'll get a notification when it's done. || 管理员将处理您的礼品，完成后会通知您。
+Poin sudah dikembalikan. || Your points have been returned. || 积分已退还。
+Kode disalin || Code copied || 已复制兑换码
+Tutup || Close || 关闭
+Tukar Poin dengan Hadiah || Redeem Points for Rewards || 积分兑换礼品
+Gift card Amazon, Google Play, saldo GoPay / OVO, merchandise & lainnya || Amazon & Google Play gift cards, GoPay / OVO credit, merchandise & more || Amazon、Google Play 礼品卡，GoPay / OVO 余额，周边商品等
+Hadiah {} sudah dikirim! Cek Hadiah Saya. || Reward {} has been sent! Check My Rewards. || 礼品 {} 已发放！请查看“我的礼品”。
+Penukaran {} ditolak, poin dikembalikan || Redemption of {} rejected, points returned || {} 兑换被拒绝，积分已退还
+Hadiah {} sedang diproses || Reward {} is being processed || 礼品 {} 正在处理
+Diproses || Processing || 处理中
+Ditolak || Rejected || 已拒绝
+Tema diatur oleh Admin: {} || Theme is set by the Admin: {} || 主题由管理员设置：{}
+Diatur Admin · {} || Set by Admin · {} || 管理员设置 · {}
+Stok habis || Out of stock || 已兑完
+Periode penukaran sudah berakhir || The redemption period has ended || 兑换期已结束
+Khusus member {} ke atas || {} members and above only || 仅限 {} 及以上会员
+Batas {}x per member sudah tercapai || Limit of {}x per member reached || 已达每位会员 {} 次上限
+Hadiah tidak tersedia || Reward not available || 礼品不可兑换
+Hadiah tidak ditemukan || Reward not found || 未找到礼品
+Mulai {} || Starts {} || {} 开始
+Gift Card / E-Voucher || Gift Card / E-Voucher || 礼品卡 / 电子券
+Saldo E-Wallet || E-Wallet Credit || 电子钱包余额
+Merchandise || Merchandise || 周边商品
+Pengalaman || Experience || 体验
+Lainnya || Other || 其他
+# --- admin: hadiah
+Hadiah Tukar Poin || Points Rewards || 积分礼品
+Loyalty member || Member loyalty || 会员忠诚度
+Member menukar poin di aplikasi dengan hadiah: gift card Amazon / Google Play, saldo GoPay / OVO, merchandise, dan lainnya. Atur hadiah, harga poin, stok kode & syaratnya di sini. || Members redeem points in the app for rewards: Amazon / Google Play gift cards, GoPay / OVO credit, merchandise and more. Manage rewards, point prices, code stock & terms here. || 会员可在 App 中用积分兑换礼品：Amazon / Google Play 礼品卡、GoPay / OVO 余额、周边商品等。在此管理礼品、积分价格、兑换码库存和条款。
+Perlu diproses || Needs processing || 待处理
+penukaran || redemptions || 笔兑换
+Penukaran Member || Member Redemptions || 会员兑换记录
+Tambah Hadiah || Add Reward || 添加礼品
+Ubah Hadiah || Edit Reward || 编辑礼品
+Belum ada hadiah. Klik Tambah Hadiah. || No rewards yet. Click Add Reward. || 暂无礼品，点击“添加礼品”。
+Kode otomatis || Auto code || 自动发码
+Diproses admin || Processed by admin || 管理员处理
+Stok Kode || Code Stock || 兑换码库存
+Aktifkan || Activate || 启用
+Hapus hadiah ini? Bila sudah pernah ditukar, hadiah hanya dinonaktifkan. || Delete this reward? If it has been redeemed before, it is only deactivated. || 删除此礼品？若已被兑换过，将仅停用。
+Sudah pernah ditukar → dinonaktifkan || Already redeemed before → deactivated || 已被兑换过 → 已停用
+Hadiah dihapus || Reward deleted || 礼品已删除
+Hadiah disimpan || Reward saved || 礼品已保存
+Status hadiah diubah || Reward status changed || 礼品状态已更改
+Cari member / hadiah... || Search member / reward... || 搜索会员 / 礼品…
+Data dari member || Member details || 会员资料
+Kode / catatan || Code / note || 兑换码 / 备注
+Proses || Process || 处理
+Tolak || Reject || 拒绝
+Tidak ada penukaran yang perlu diproses 🎉 || No redemptions to process 🎉 || 没有待处理的兑换 🎉
+Belum ada penukaran || No redemptions yet || 暂无兑换记录
+Ditandai diproses || Marked as processing || 已标记为处理中
+Selesaikan Penukaran || Complete Redemption || 完成兑换
+Tandai Selesai || Mark Done || 标记完成
+Isi kode / nomor transaksi bila ada — akan tampil di aplikasi member. || Enter the code / transaction number if any — it will be shown in the member app. || 如有兑换码 / 交易号请填写——会显示在会员 App 中。
+Kode voucher / no. transaksi / resi (opsional) || Voucher code / transaction no. / tracking no. (optional) || 兑换码 / 交易号 / 运单号（可选）
+PIN (opsional) || PIN (optional) || PIN（可选）
+Catatan untuk member || Note for the member || 给会员的备注
+mis. Saldo sudah dikirim || e.g. Credit has been sent || 例如：余额已发送
+Penukaran selesai — member diberi tahu || Redemption completed — member notified || 兑换完成——已通知会员
+Tolak Penukaran || Reject Redemption || 拒绝兑换
+Tolak & Kembalikan Poin || Reject & Return Points || 拒绝并退还积分
+Poin member akan dikembalikan otomatis. || The member's points will be returned automatically. || 会员积分将自动退还。
+Alasan penolakan || Rejection reason || 拒绝原因
+Ditolak — poin dikembalikan || Rejected — points returned || 已拒绝——积分已退还
+Nama hadiah || Reward name || 礼品名称
+mis. Amazon Gift Card US$10 || e.g. Amazon Gift Card US$10 || 例如：Amazon 礼品卡 US$10
+Merek / penyedia || Brand / provider || 品牌 / 供应商
+Amazon, Google Play, GoPay, RestoBake... || Amazon, Google Play, GoPay, RestoBake... || Amazon、Google Play、GoPay、RestoBake…
+Nilai hadiah || Reward value || 礼品面值
+US$10 / Rp 50.000 / 1 bulan || US$10 / Rp 50,000 / 1 month || US$10 / Rp 50.000 / 1 个月
+Harga poin || Points price || 积分价格
+Cara pemberian || Delivery method || 发放方式
+Kode otomatis dari stok (gift card) || Automatic code from stock (gift card) || 从库存自动发码（礼品卡）
+Diproses admin (top-up e-wallet / kirim barang) || Processed by admin (e-wallet top-up / ship item) || 管理员处理（电子钱包充值 / 寄送商品）
+Data yang diminta dari member (kosongkan bila tidak perlu) || Details requested from the member (leave blank if not needed) || 需会员填写的资料（不需要请留空）
+Nomor HP GoPay / Alamat / Email || GoPay number / Address / Email || GoPay 手机号 / 地址 / 邮箱
+Stok (khusus 'diproses admin', kosong = tanpa batas) || Stock ('processed by admin' only, blank = unlimited) || 库存（仅限“管理员处理”，留空 = 不限）
+Maks. tukar per member (kosong = bebas) || Max. redemptions per member (blank = unlimited) || 每位会员最多兑换次数（留空 = 不限）
+Semua member || All members || 全部会员
+Silver ke atas || Silver and above || 银卡及以上
+Mulai (opsional) || Start (optional) || 开始（可选）
+Berakhir (opsional) || End (optional) || 结束（可选）
+URL gambar / logo (opsional) || Image / logo URL (optional) || 图片 / 标志地址（可选）
+Syarat & ketentuan || Terms & conditions || 条款与条件
+Urutan tampil || Display order || 显示顺序
+Tampilkan di aplikasi member || Show in member app || 在会员 App 中显示
+Kode dibagikan || Codes are given out || 兑换码会
+ke member saat menukar poin (satu kode per penukaran). Beli gift card dari penyedia resmi (Amazon, Google Play, dll), lalu tempel kodenya di sini. || to members when they redeem points (one code per redemption). Buy gift cards from official providers (Amazon, Google Play, etc.), then paste the codes here. || 在会员兑换积分时自动发放（每次兑换一个码）。请从官方渠道（Amazon、Google Play 等）购买礼品卡，再把兑换码粘贴到这里。
+Tambah kode — satu per baris. Format || Add codes — one per line. Format || 添加兑换码——每行一个。格式
+Tambah Kode || Add Codes || 添加兑换码
+tersedia || available || 可用
+terpakai || used || 已使用
+Tersedia || Available || 可用
+Terpakai || Used || 已使用
+Kode dihapus || Code deleted || 兑换码已删除
+Belum ada kode || No codes yet || 暂无兑换码
+{} kode ditambahkan || {} codes added || 已添加 {} 个兑换码
+{} kode tersedia || {} codes available || {} 个兑换码可用
+Tanpa batas || Unlimited || 不限
+{} ditukar || {} redeemed || 已兑换 {}
+{} menunggu || {} waiting || {} 待处理
+{} menukar {} poin → {} || {} redeemed {} points → {} || {} 用 {} 积分兑换 → {}
+(kode terkirim otomatis) || (code sent automatically) || （兑换码已自动发送）
+— perlu diproses || — needs processing || ——待处理
+# --- admin: tema
+Tema & Logo Aplikasi || App Themes & Logo || 应用主题与标志
+Branding || Branding || 品牌
+Atur warna, logo, gambar login & notifikasi untuk aplikasi Member dan aplikasi Resto (Waiter, Kasir, Kitchen). Begitu disimpan, semua HP yang sedang membuka aplikasi || Set the colours, logo, login image & notifications for the Member app and the Resto apps (Waiter, Cashier, Kitchen). Once saved, every phone that has the app open || 设置会员 App 和餐厅 App（服务员、收银、厨房）的颜色、标志、登录图片与通知。保存后，所有正在使用 App 的手机
+langsung ikut berubah || changes immediately || 都会立即更新
+. Tema baru bisa dibuat di sini atau diunggah sebagai plugin (.zip / .json). || . New themes can be created here or uploaded as a plugin (.zip / .json). || 。可在此创建新主题，或以插件（.zip / .json）上传。
+Tema tersedia || Themes available || 可用主题
+tambahan || added || 个新增
+Tema yang Dipakai || Themes in Use || 正在使用的主题
+Aplikasi Member (pelanggan) || Member App (customers) || 会员 App（顾客）
+Aplikasi Member || Member App || 会员 App
+Aplikasi Resto — semua (Waiter, Kasir, Kitchen) || Resto Apps — all (Waiter, Cashier, Kitchen) || 餐厅 App——全部（服务员、收银、厨房）
+Ikut tema Resto || Follow Resto theme || 跟随餐厅主题
+— Ikut tema Resto — || — Follow Resto theme — || —— 跟随餐厅主题 ——
+Logo utama (bila tema tidak punya logo) || Main logo (when the theme has no logo) || 主标志（主题没有标志时使用）
+Member boleh memilih tema sendiri di aplikasinya (aplikasi Resto selalu mengikuti admin) || Members may pick their own theme in the app (Resto apps always follow the admin) || 允许会员在 App 中自选主题（餐厅 App 始终跟随管理员）
+Simpan & Terapkan ke Semua Aplikasi || Save & Apply to All Apps || 保存并应用到所有 App
+Pratinjau || Preview || 预览
+berubah saat Anda memilih || updates as you choose || 选择时实时变化
+Koleksi Tema || Theme Collection || 主题库
+Unggah Plugin Tema (.zip / .json) || Upload Theme Plugin (.zip / .json) || 上传主题插件（.zip / .json）
+Buat Tema || Create Theme || 创建主题
+Bawaan || Built-in || 内置
+Plugin || Plugin || 插件
+Gelap || Dark || 深色
+Resto || Resto || 餐厅
+Export .zip || Export .zip || 导出 .zip
+Tema diterapkan — semua aplikasi langsung berubah || Theme applied — all apps updated instantly || 主题已应用——所有 App 已立即更新
+Tema "{}" berhasil dipasang || Theme "{}" installed || 主题“{}”安装成功
+Hapus tema ini? || Delete this theme? || 删除此主题？
+Tema dihapus || Theme deleted || 主题已删除
+Tema disimpan || Theme saved || 主题已保存
+Ubah Tema || Edit Theme || 编辑主题
+Ubah Tema · {} || Edit Theme · {} || 编辑主题 · {}
+Nama tema * || Theme name * || 主题名称 *
+Nama tema wajib diisi || Theme name is required || 必须填写主题名称
+Warna utama (tombol, header) || Main colour (buttons, header) || 主色（按钮、标题栏）
+Aksen / logo (emas) || Accent / logo (gold) || 强调色 / 标志（金色）
+Warna gelap (gradasi login) || Dark colour (login gradient) || 深色（登录渐变）
+Warna gelap kedua || Second dark colour || 第二深色
+Latar halaman || Page background || 页面背景
+Warna notifikasi || Notification colour || 通知颜色
+Teks sambutan di halaman login || Welcome text on the login page || 登录页欢迎语
+mis. Promo spesial akhir pekan! || e.g. Special weekend promo! || 例如：周末特惠！
+Logo (opsional) || Logo (optional) || 标志（可选）
+Gambar latar login (opsional) || Login background image (optional) || 登录背景图（可选）
+Mode gelap || Dark mode || 深色模式
+Bunyi notifikasi pesanan || Order notification sound || 订单通知声音
+Hapus logo & gambar login tema ini || Remove this theme's logo & login image || 删除此主题的标志和登录图片
+Simpan Tema || Save Theme || 保存主题
+Tema Baru || New Theme || 新主题
+Pesan || Order || 下单
+Meja 5 siap diantar || Table 5 ready to serve || 5 号桌可以上菜
+Aplikasi tidak dikenal || Unknown app || 未知应用
+Tema tidak ditemukan || Theme not found || 未找到主题
+Tema bawaan tidak bisa dihapus || Built-in themes cannot be deleted || 内置主题不能删除
+Tema sedang dipakai aplikasi, ganti dulu temanya || This theme is in use by an app, change the theme first || 此主题正在被 App 使用，请先更换主题
+Plugin tema harus berisi theme.json || A theme plugin must contain theme.json || 主题插件必须包含 theme.json
+theme.json tidak valid (harus JSON) || theme.json is invalid (must be JSON) || theme.json 无效（必须是 JSON）
+Bukan plugin tema RestoBake || Not a RestoBake theme plugin || 不是 RestoBake 主题插件
+File tema maksimal 15 MB || Theme file max 15 MB || 主题文件最大 15 MB
+File .zip rusak || The .zip file is corrupted || .zip 文件已损坏
+Warna '{}' harus format #RRGGBB || Colour '{}' must be in #RRGGBB format || 颜色“{}”必须为 #RRGGBB 格式
+Warna '{}' wajib diisi || Colour '{}' is required || 必须填写颜色“{}”
+Nama hadiah wajib diisi || Reward name is required || 必须填写礼品名称
+Harga poin minimal 1 || Points price must be at least 1 || 积分价格至少为 1
+Alasan penolakan wajib diisi || Rejection reason is required || 必须填写拒绝原因
+Penukaran ini sudah selesai / ditolak || This redemption is already completed / rejected || 此兑换已完成 / 已拒绝
+Kode sudah diberikan ke member || The code has already been given to a member || 兑换码已发放给会员
+Tidak ada kode yang diisi || No codes entered || 未填写兑换码
+Gagal export || Export failed || 导出失败
+poin || pts || 积分
+# --- mata uang
+Mata Uang || Currency || 货币
+Mata uang restoran (harga menu, tagihan, voucher, laporan) || Restaurant currency (menu prices, bills, vouchers, reports) || 餐厅货币（菜品价格、账单、优惠券、报表）
+Konversi semua harga menu, voucher, gaji, ongkir & nilai poin dengan kurs || Convert all menu prices, vouchers, salaries, delivery fee & point value using an exchange rate || 按汇率换算所有菜品价格、优惠券、工资、运费和积分价值
+Kurs || Exchange rate || 汇率
+Kurs: 1 {} = … {} || Rate: 1 {} = … {} || 汇率：1 {} = … {}
+Ganti Mata Uang || Change Currency || 更换货币
+QRIS & Midtrans hanya mendukung Rupiah (IDR) — bila memakai USD / SGD / MYR, pembayaran QRIS otomatis disembunyikan. Riwayat pesanan lama tidak dikonversi. || QRIS & Midtrans only support Rupiah (IDR) — when using USD / SGD / MYR, QRIS payment is hidden automatically. Old order history is not converted. || QRIS 和 Midtrans 仅支持印尼盾 (IDR)——使用 USD / SGD / MYR 时会自动隐藏 QRIS 付款。历史订单不会换算。
+Mata uang sama dengan yang dipakai sekarang || That is already the current currency || 已是当前货币
+Isi kurs konversi dulu || Enter the exchange rate first || 请先填写汇率
+Ganti ke {} dan konversi semua harga dengan kurs 1 {} = {} {}? || Switch to {} and convert all prices at 1 {} = {} {}? || 切换为 {} 并按 1 {} = {} {} 换算所有价格？
+Ganti ke {} TANPA konversi? Angka harga tetap sama (hanya simbol & format yang berubah). || Switch to {} WITHOUT conversion? Price numbers stay the same (only the symbol & format change). || 不换算直接切换为 {}？价格数字不变（只改变符号和格式）。
+Ganti || Change || 更换
+Mata uang sekarang {} — {} data dikonversi || Currency is now {} — {} records converted || 当前货币为 {}——已换算 {} 条数据
+Mata uang sekarang {} || Currency is now {} || 当前货币为 {}
+Mata uang tidak didukung || Currency not supported || 不支持该货币
+Isi kurs konversi (lebih dari 0) || Enter the exchange rate (greater than 0) || 请填写汇率（大于 0）
+QRIS hanya bisa dipakai bila mata uang Rupiah (IDR) || QRIS can only be used when the currency is Rupiah (IDR) || 仅当货币为印尼盾 (IDR) 时才能使用 QRIS
+Uang kurang. Total {} || Not enough cash. Total {} || 金额不足。应付 {}
+Harga || Price || 价格
+Ongkir Delivery || Delivery Fee || 外送运费
+Belanja per 1 poin || Spend per 1 point || 每积 1 分需消费
+Nilai 1 poin || Value of 1 point || 1 积分价值
+Nilai hadiah (nominal) || Reward value (amount) || 礼品面值（金额）
+Mata uang hadiah || Reward currency || 礼品货币
+atau teks nilai bebas (opsional, mis. 1 bulan / 500 ml) || or free value text (optional, e.g. 1 month / 500 ml) || 或自定义面值文字（可选，如 1 个月 / 500 ml）

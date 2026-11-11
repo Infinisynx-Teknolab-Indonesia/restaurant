@@ -1,0 +1,109 @@
+# Tentang Kami, Hubungi Kami, Email SMTP, Logo aplikasi — Indonesia || English || 中文
+Tentang Kami || About Us || 关于我们
+Hubungi Kami || Contact Us || 联系我们
+Tidak bisa membuka tautan || Cannot open the link || 无法打开链接
+Pertanyaan || Question || 咨询
+Pesanan khusus / acara || Special order / event || 定制订单 / 活动
+Kritik & saran || Feedback & suggestions || 意见与建议
+Kerja sama || Partnership || 商务合作
+Topik || Topic || 主题
+Pesan Terkirim || Message Sent || 消息已发送
+Terima kasih! Pesan Anda sudah terkirim, kami akan segera membalas. || Thank you! Your message has been sent, we will reply soon. || 谢谢！您的消息已发送，我们会尽快回复。
+OK || OK || 好的
+Wajib diisi || Required || 必填
+Kirim pertanyaan, pesanan khusus, atau kritik & saran. Pesan langsung masuk ke email kami. || Send us a question, special order, or feedback. Your message goes straight to our email. || 发送咨询、定制订单或意见建议，消息将直接发送到我们的邮箱。
+Email (untuk balasan) || Email (for our reply) || 邮箱（用于回复）
+No. HP / WhatsApp (opsional) || Phone / WhatsApp (optional) || 手机 / WhatsApp（可选）
+Isi email atau nomor HP agar kami bisa membalas || Enter an email or phone number so we can reply || 请填写邮箱或手机号，以便我们回复
+Format email salah || Invalid email format || 邮箱格式错误
+Pesan terlalu pendek || Message is too short || 消息太短
+Pesan maksimal 3000 karakter || Message can be at most 3000 characters || 消息最多 3000 个字符
+Kirim Pesan || Send Message || 发送消息
+Mengirim... || Sending... || 发送中...
+Nama wajib diisi || Name is required || 请填写姓名
+Fitur Hubungi Kami sedang dinonaktifkan || Contact Us is currently disabled || “联系我们”功能已停用
+Terlalu banyak pesan. Coba lagi nanti || Too many messages. Please try again later || 消息过多，请稍后再试
+Pesan tidak ditemukan || Message not found || 未找到消息
+Isi alamat email tujuan tes || Enter a destination email for the test || 请填写测试收件邮箱
+Logo harus gambar PNG, JPG atau WEBP (SVG tidak didukung aplikasi HP) || Logo must be a PNG, JPG or WEBP image (SVG isn't supported by the mobile apps) || 标志必须为 PNG、JPG 或 WEBP 图片（手机应用不支持 SVG）
+Ukuran logo maksimal 3 MB || Logo can be at most 3 MB || 标志最大 3 MB
+Slot logo tidak dikenal || Unknown logo slot || 未知的标志位置
+Email (SMTP) belum diatur di Admin › Pengaturan || Email (SMTP) isn't set up in Admin › Settings || 尚未在 管理后台 › 设置 中配置邮箱 (SMTP)
+Login SMTP ditolak — cek username & password (Gmail/Yahoo wajib App Password) || SMTP login rejected — check username & password (Gmail/Yahoo require an App Password) || SMTP 登录被拒绝——请检查用户名和密码（Gmail/Yahoo 必须使用应用专用密码）
+Gagal mengirim email: {} || Failed to send email: {} || 邮件发送失败：{}
+Email tes terkirim ke {} || Test email sent to {} || 测试邮件已发送至 {}
+# admin: pesan masuk
+Pesan Masuk || Inbox || 收件箱
+Pesan dari menu Hubungi Kami di aplikasi Member. Setiap pesan juga otomatis dikirim ke email restoran (atur di Pengaturan › Email). Balas langsung dari email Anda — alamat pelanggan sudah terpasang sebagai Reply-To. || Messages from Contact Us in the Member app. Every message is also emailed to the restaurant automatically (set it in Settings › Email). Reply straight from your email — the customer's address is already set as Reply-To. || 来自会员应用“联系我们”的消息。每条消息也会自动发送到餐厅邮箱（在 设置 › 邮箱 中配置）。直接用邮箱回复即可——顾客地址已设为回复地址。
+Belum dibaca || Unread || 未读
+dari {} pesan || of {} messages || 共 {} 条消息
+Belum ada pesan || No messages yet || 暂无消息
+Tamu || Guest || 访客
+Terkirim ke email || Sent to email || 已发送到邮箱
+Email gagal || Email failed || 邮件失败
+Email belum diatur || Email not set up || 邮箱未配置
+Mengirim… || Sending… || 发送中…
+Tandai dibaca || Mark as read || 标为已读
+Kirim ulang ke email || Resend to email || 重新发送到邮箱
+Hapus pesan ini? || Delete this message? || 删除此消息？
+Pesan terkirim ke email || Message sent to email || 消息已发送到邮箱
+Pesan baru dari {}: {} || New message from {}: {} || 来自 {} 的新消息：{}
+Pesan baru dari {}: {} (terkirim ke email) || New message from {}: {} (sent to email) || 来自 {} 的新消息：{}（已发送到邮箱）
+Email belum diatur — pesan hanya tersimpan di admin || Email not set up — the message is only saved in admin || 邮箱未配置——消息仅保存在后台
+# admin: pengaturan
+Tentang & Hubungi Kami || About & Contact Us || 关于与联系我们
+aplikasi Member || Member app || 会员应用
+Teks "Tentang Kami" || "About Us" text || “关于我们”文字
+Cerita singkat restoran Anda || A short story about your restaurant || 简单介绍您的餐厅
+Tampilkan menu "Hubungi Kami" di aplikasi Member || Show the "Contact Us" menu in the Member app || 在会员应用中显示“联系我们”
+Pesan pelanggan dikirim ke email || Customer messages are sent to || 顾客消息发送到邮箱
+WhatsApp (opsional) || WhatsApp (optional) || WhatsApp（可选）
+Instagram (opsional) || Instagram (optional) || Instagram（可选）
+Email (SMTP) || Email (SMTP) || 邮箱 (SMTP)
+Sudah diisi || Configured || 已配置
+Belum diatur || Not set up || 未配置
+Penyedia email || Email provider || 邮件服务商
+Server SMTP || SMTP server || SMTP 服务器
+Port || Port || 端口
+Keamanan || Security || 安全
+Tanpa enkripsi || No encryption || 不加密
+Username / alamat email || Username / email address || 用户名 / 邮箱地址
+Password / App Password || Password / App Password || 密码 / 应用专用密码
+•••••••• (tersimpan — kosongkan bila tidak diganti) || •••••••• (saved — leave empty to keep) || ••••••••（已保存——不修改请留空）
+Nama pengirim || Sender name || 发件人名称
+Email pengirim (opsional) || Sender email (optional) || 发件邮箱（可选）
+sama dengan username || same as username || 与用户名相同
+Kirim email tes ke || Send a test email to || 发送测试邮件至
+Tes Kirim || Send Test || 发送测试
+Simpan Pengaturan dulu sebelum tes. Gmail / Yahoo wajib memakai App Password, bukan password login biasa. || Save Settings before testing. Gmail / Yahoo require an App Password, not your normal login password. || 测试前请先保存设置。Gmail / Yahoo 必须使用应用专用密码，而不是普通登录密码。
+Gmail / Google Workspace || Gmail / Google Workspace || Gmail / Google Workspace
+Outlook / Hotmail / Office 365 || Outlook / Hotmail / Office 365 || Outlook / Hotmail / Office 365
+Yahoo Mail || Yahoo Mail || Yahoo 邮箱
+Zoho Mail || Zoho Mail || Zoho 邮箱
+Hostinger (email domain) || Hostinger (domain email) || Hostinger（域名邮箱）
+SMTP lain (cPanel, Mailgun, Brevo, SES, dll.) || Other SMTP (cPanel, Mailgun, Brevo, SES, etc.) || 其他 SMTP（cPanel、Mailgun、Brevo、SES 等）
+Aktifkan verifikasi 2 langkah lalu buat App Password di myaccount.google.com/apppasswords || Turn on 2-step verification, then create an App Password at myaccount.google.com/apppasswords || 开启两步验证，然后在 myaccount.google.com/apppasswords 创建应用专用密码
+Pakai email & password Microsoft (atau App Password bila verifikasi 2 langkah aktif) || Use your Microsoft email & password (or an App Password if 2-step verification is on) || 使用 Microsoft 邮箱和密码（开启两步验证时请用应用专用密码）
+Buat App Password di pengaturan keamanan akun Yahoo || Create an App Password in your Yahoo account security settings || 在 Yahoo 账户安全设置中创建应用专用密码
+# admin: logo
+Logo Aplikasi || App Logo || 应用标志
+PNG / JPG / WEBP · persegi · min. 512 × 512 px · maks. 3 MB || PNG / JPG / WEBP · square · min. 512 × 512 px · max. 3 MB || PNG / JPG / WEBP · 正方形 · 至少 512 × 512 px · 最大 3 MB
+Logo Utama || Main Logo || 主标志
+Semua aplikasi + admin panel & struk || All apps + admin panel & receipts || 所有应用 + 管理后台和小票
+Aplikasi Member || Member App || 会员应用
+Khusus aplikasi pelanggan (kosong = ikut logo utama) || Customer app only (empty = use main logo) || 仅顾客应用（留空 = 使用主标志）
+Aplikasi Resto || Resto Apps || 餐厅应用
+Khusus Waiter, Kasir & Kitchen (kosong = ikut logo utama) || Waiter, Cashier & Kitchen only (empty = use main logo) || 仅服务员、收银和厨房（留空 = 使用主标志）
+Bawaan || Default || 默认
+Ikut utama || Uses main || 使用主标志
+Unggah || Upload || 上传
+Ganti || Replace || 更换
+Hapus logo || Remove logo || 删除标志
+Logo bawaan tema (mis. tema Imlek / Ramadan) boleh menggantikan logo di atas selama tema itu dipakai || A theme's own logo (e.g. Chinese New Year / Ramadan) may replace the logos above while that theme is in use || 使用主题时（如春节 / 斋月主题），允许主题自带标志替换上面的标志
+Logo tampil di halaman login, header, struk & notifikasi semua aplikasi dan langsung berubah tanpa update aplikasi. Ikon aplikasi di layar HP (launcher) tetap mengikuti file APK / IPA. || The logo appears on the login page, headers, receipts & notifications of every app and changes instantly without an app update. The app icon on the phone's home screen still comes from the APK / IPA file. || 标志显示在所有应用的登录页、页眉、小票和通知中，无需更新应用即可立即生效。手机桌面上的应用图标仍由 APK / IPA 文件决定。
+Logo diganti — semua aplikasi langsung berubah || Logo replaced — all apps update instantly || 标志已更换——所有应用立即更新
+Hapus logo ini? Aplikasi akan memakai logo utama / bawaan. || Remove this logo? The apps will use the main / default logo. || 删除此标志？应用将使用主标志 / 默认标志。
+Logo dihapus || Logo removed || 标志已删除
+Pengaturan logo disimpan || Logo settings saved || 标志设置已保存
+Isi pesan || Message || 留言内容
+Soal pesanan || About an order || 订单问题
